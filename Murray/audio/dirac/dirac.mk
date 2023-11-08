@@ -27,3 +27,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_DIRAC)/proprietary/vendor/lib/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmisoundfx.so \
     $(LOCAL_DIRAC)/proprietary/vendor/lib64/soundfx/libdirac.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdirac.so \
     $(LOCAL_DIRAC)/proprietary/vendor/lib64/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libmisoundfx.so
+
+# DIRAC Prop(s)
+PRODUCT_VENDOR_PROPERTIES += \
+	ro.vendor.audio.misound.bluetooth.enable=true \
+	ro.vendor.audio.scenario.support=true \
+	ro.vendor.audio.soundfx.type=mi \
+	ro.vendor.audio.soundfx.usb=true
