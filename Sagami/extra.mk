@@ -20,17 +20,17 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Flags
 TARGET_SHIPS_SONY_FRAMEWORK ?= true
-TARGET_SHIPS_SOMC_CAMERA ?= true
-TARGET_SHIPS_SOMC_APPS ?= true
+TARGET_SHIPS_SONY_CAMERA ?= true
+TARGET_SHIPS_SONY_APPS ?= true
 TARGET_SHIPS_SOUND_ENHANCEMENTS ?= true
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= true
 
 # Sony Framework
 ifeq ($(TARGET_SHIPS_SONY_FRAMEWORK),true)
 PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,$(LOCAL_PATH)/framework/system/,$(TARGET_COPY_OUT_SYSTEM)/) \
-    $(call find-copy-subdir-files,*,$(LOCAL_PATH)/framework/system_ext/,$(TARGET_COPY_OUT_SYSTEM_EXT)/) \
-    $(call find-copy-subdir-files,*,$(LOCAL_PATH)/framework/product/,$(TARGET_COPY_OUT_PRODUCT)/)
+    $(call find-copy-subdir-files,*,vendor/sony/extra/Sagami/framework/system/,$(TARGET_COPY_OUT_SYSTEM)/) \
+    $(call find-copy-subdir-files,*,vendor/sony/extra/Sagami/framework/system_ext/,$(TARGET_COPY_OUT_SYSTEM_EXT)/) \
+    $(call find-copy-subdir-files,*,vendor/sony/extra/Sagami/framework/product/,$(TARGET_COPY_OUT_PRODUCT)/)
 endif
 
 # Sony Camera
@@ -53,5 +53,5 @@ endif
 # Game Controllers
 ifeq ($(TARGET_SUPPORTS_GAME_CONTROLLERS),true)
  PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,$(LOCAL_PATH)/keylayout/,$(TARGET_COPY_OUT_SYSTEM)/usr/keylayout/)
+    $(call find-copy-subdir-files,*,vendor/sony/extra/Sagami/keylayout/,$(TARGET_COPY_OUT_SYSTEM)/usr/keylayout/)
 endif
