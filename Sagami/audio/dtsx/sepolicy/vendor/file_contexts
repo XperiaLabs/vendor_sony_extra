@@ -1,0 +1,3 @@
+# Data Files
+/vendor/etc/dts(/.*)?    u:object_r:vendor_configs_file:s0
+/data/vendor/audio/dts(/.*)?   u:object_r:vendor_data_file:s0
