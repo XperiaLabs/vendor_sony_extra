@@ -22,7 +22,7 @@ PRODUCT_SOONG_NAMESPACES += \
 TARGET_SHIPS_SONY_FRAMEWORK ?= true
 TARGET_SHIPS_SONY_CAMERA ?= true
 TARGET_SHIPS_SONY_APPS ?= true
-TARGET_SHIPS_SOUND_ENHANCEMENTS ?= true
+TARGET_SHIPS_SOUND_ENHANCEMENT ?= true
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= true
 
 # Sony Framework
@@ -46,6 +46,7 @@ endif
 
 # Sound Enhancements
 ifeq ($(TARGET_SHIPS_SOUND_ENHANCEMENT),true)
+    $(call inherit-product, vendor/sony/extra/Sagami/audio/dtsx/ultra.mk)
 #    $(call inherit-product, vendor/sony/extra/Sagami/audio/dolby/dolby.mk)
 #    $(call inherit-product, vendor/sony/extra/Sagami/audio/dirac/dirac.mk)
 endif
