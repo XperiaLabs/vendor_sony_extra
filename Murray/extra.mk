@@ -21,7 +21,7 @@ PRODUCT_SOONG_NAMESPACES += \
 # Flags
 TARGET_SHIPS_SONY_FRAMEWORK ?= true
 TARGET_SHIPS_SONY_APPS ?= true
-TARGET_SHIPS_SOUND_ENHANCEMENTS ?= true
+TARGET_SHIPS_SOUND_ENHANCEMENT ?= true
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= true
 
 # Sony Framework
@@ -39,8 +39,8 @@ endif
 
 # Sound Enhancements
 ifeq ($(TARGET_SHIPS_SOUND_ENHANCEMENT),true)
-    $(call inherit-product, vendor/sony/extra/Murray/audio/dtsx/ultra.mk)
-#    $(call inherit-product, vendor/sony/extra/Murray/audio/dolby/dolby.mk)
+#    $(call inherit-product, vendor/sony/extra/Murray/audio/dtsx/ultra.mk)
+    $(call inherit-product, vendor/sony/extra/Murray/audio/dolby/dolby.mk)
 #    $(call inherit-product, vendor/sony/extra/Murray/audio/dirac/dirac.mk)
 endif
 
