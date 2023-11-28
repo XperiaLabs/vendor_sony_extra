@@ -1,3 +1,0 @@
-on post-fs-data
-    mkdir /data/vendor/audio/dts 0771 media audio
-    
