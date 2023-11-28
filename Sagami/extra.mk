@@ -46,9 +46,7 @@ endif
 
 # Sound Enhancements
 ifeq ($(TARGET_SHIPS_SOUND_ENHANCEMENT),true)
-    $(call inherit-product, vendor/sony/extra/Sagami/audio/dtsx/ultra.mk)
-#    $(call inherit-product, vendor/sony/extra/Sagami/audio/dolby/dolby.mk)
-#    $(call inherit-product, vendor/sony/extra/Sagami/audio/dirac/dirac.mk)
+    $(call inherit-product, vendor/sony/extra/Sagami/audio/dolby/dolby.mk)
 endif
 
 # Game Controllers
