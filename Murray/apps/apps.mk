@@ -22,7 +22,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     MusicPro \
     SemcMusic \
-    MovieCreator \
     SomcColorGamut \
     SomcDualshockManager \
     SomcMediaExtensionProvider \
