@@ -24,7 +24,6 @@ PRODUCT_PACKAGES += \
     SemcMusic \
     MovieCreator \
     SomcColorGamut \
-    SomcDualshockManager \
     SomcMediaExtensionProvider \
     ExternalMonitor \
     UsbExtOutAudio

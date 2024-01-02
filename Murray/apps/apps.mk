@@ -23,7 +23,6 @@ PRODUCT_PACKAGES += \
     MusicPro \
     SemcMusic \
     SomcColorGamut \
-    SomcDualshockManager \
     SomcMediaExtensionProvider \
     ExternalMonitor \
     UsbExtOutAudio \
