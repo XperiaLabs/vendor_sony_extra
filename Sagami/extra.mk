@@ -28,9 +28,9 @@ TARGET_SUPPORTS_GAME_CONTROLLERS ?= true
 # Sony Framework
 ifeq ($(TARGET_SHIPS_SONY_FRAMEWORK),true)
 PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,vendor/sony/extra/Sagami/framework/system/,$(TARGET_COPY_OUT_SYSTEM)/) \
-    $(call find-copy-subdir-files,*,vendor/sony/extra/Sagami/framework/system_ext/,$(TARGET_COPY_OUT_SYSTEM_EXT)/) \
-    $(call find-copy-subdir-files,*,vendor/sony/extra/Sagami/framework/product/,$(TARGET_COPY_OUT_PRODUCT)/)
+    $(call find-copy-subdir-files,*,vendor/sony/extra/Common/framework/system/,$(TARGET_COPY_OUT_SYSTEM)/) \
+    $(call find-copy-subdir-files,*,vendor/sony/extra/Common/framework/system_ext/,$(TARGET_COPY_OUT_SYSTEM_EXT)/) \
+    $(call find-copy-subdir-files,*,vendor/sony/extra/Common/framework/product/,$(TARGET_COPY_OUT_PRODUCT)/)
 endif
 
 # Sony Camera
@@ -51,6 +51,5 @@ endif
 
 # Game Controllers
 ifeq ($(TARGET_SUPPORTS_GAME_CONTROLLERS),true)
- PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,vendor/sony/extra/Sagami/keylayout/,$(TARGET_COPY_OUT_SYSTEM)/usr/keylayout/)
+    $(call inherit-product, vendor/sony/extra/Common/controllers/gc.mk)
 endif
