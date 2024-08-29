@@ -21,7 +21,7 @@ android_app_import {
 	name: "GamingAccessorySettings",
 	owner: "sony",
 	apk: "proprietary/system/priv-app/GamingAccessorySettings/GamingAccessorySettings.apk",
-	certificate: "platform",
+	presigned: true,
    	dex_preopt: {
 		enabled: false,
 	},
