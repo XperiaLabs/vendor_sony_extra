@@ -24,6 +24,5 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	preprocessed: true,
 	product_specific: true,
 }

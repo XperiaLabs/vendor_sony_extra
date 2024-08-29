@@ -25,7 +25,6 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	preprocessed: true,
 	product_specific: true,
 }
 
@@ -34,13 +33,11 @@ android_app_import {
 	owner: "sony",
 	apk: "SonyMusic/SonyMusic.apk",
 	presigned: true,
-        overrides: ["Eleven"],
+        overrides: ["Eleven, InnerTune"],
 	dex_preopt: {
 		enabled: false,
 	},
 	privileged: true,
-	skip_preprocessed_apk_checks: true,
-	preprocessed: true,
 	system_ext_specific: true,
 }
 
@@ -53,7 +50,6 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	preprocessed: true,
 	system_ext_specific: true,
 }
 
@@ -66,8 +62,6 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	skip_preprocessed_apk_checks: true,
-	preprocessed: true,
 	product_specific: true,
 }
 
@@ -80,7 +74,6 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	preprocessed: true,
 	product_specific: true,
 }
 
@@ -93,8 +86,6 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	skip_preprocessed_apk_checks: true,
-	preprocessed: true,
 	product_specific: true,
 }
 
@@ -107,7 +98,5 @@ android_app_import {
 		enabled: false,
 	},
 	privileged: true,
-	skip_preprocessed_apk_checks: true,
-	preprocessed: true,
 	product_specific: true,
 }
