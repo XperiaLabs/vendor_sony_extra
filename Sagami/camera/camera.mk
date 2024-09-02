@@ -30,7 +30,6 @@ endif
 
 # Camera
 PRODUCT_PACKAGES += \
-    CinemaPro \
     VideoPro \
     CameraCommon \
     CameraAddonPermission \
