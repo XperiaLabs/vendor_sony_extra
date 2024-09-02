@@ -20,7 +20,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Flags
 TARGET_SHIPS_SONY_FRAMEWORK ?= false
-TARGET_SHIPS_SONY_CAMERA ?= false
 TARGET_SHIPS_SONY_APPS ?= false
 TARGET_SHIPS_SOUND_ENHANCEMENT ?= false
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= false
@@ -32,11 +31,6 @@ PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/sony/extra/Common/framework/system/,$(TARGET_COPY_OUT_SYSTEM)/) \
     $(call find-copy-subdir-files,*,vendor/sony/extra/Common/framework/system_ext/,$(TARGET_COPY_OUT_SYSTEM_EXT)/) \
     $(call find-copy-subdir-files,*,vendor/sony/extra/Common/framework/product/,$(TARGET_COPY_OUT_PRODUCT)/)
-endif
-
-# Sony Camera
-ifeq ($(TARGET_SHIPS_SONY_CAMERA),true)
-    $(call inherit-product, vendor/sony/extra/Sagami/camera/camera.mk)
 endif
 
 # Sony Apps
