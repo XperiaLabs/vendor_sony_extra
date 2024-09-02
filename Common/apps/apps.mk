@@ -26,4 +26,4 @@ PRODUCT_PACKAGES += \
     SomcColorGamut \
     SomcMediaExtensionProvider \
     UsbExtOutAudio \
-    XperiaLWP
+    VideoCreator

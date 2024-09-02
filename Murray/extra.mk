@@ -23,6 +23,8 @@ TARGET_SHIPS_SONY_FRAMEWORK ?= false
 TARGET_SHIPS_SONY_APPS ?= false
 TARGET_SHIPS_SOUND_ENHANCEMENTS ?= false
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= false
+TARGET_SHIPS_XPERIA_LWP ?= false
+TARGET_SHIPS_XPERIA_LWP_NEWEST ?= false
 
 # Sony Framework
 ifeq ($(TARGET_SHIPS_SONY_FRAMEWORK),true)
@@ -46,4 +48,14 @@ endif
 ifeq ($(TARGET_SUPPORTS_GAME_CONTROLLERS),true)
  PRODUCT_COPY_FILES += \
     $(call inherit-product, vendor/sony/extra/Common/controllers/gc.mk)
+endif
+
+# Xperia LWPs
+ifeq ($(TARGET_SHIPS_XPERIA_LWP),true)
+    $(call inherit-product, vendor/sony/extra/Common/lwp/lwp.mk)
+endif
+
+# Xperia LWPs | Newest
+ifeq ($(TARGET_SHIPS_XPERIA_LWP_NEWEST),true)
+    $(call inherit-product, vendor/sony/extra/Common/lwp/lwp-newest.mk)
 endif

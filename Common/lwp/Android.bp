@@ -1,0 +1,268 @@
+// Copyright (C) 2024 XperiaLabs Project
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+soong_namespace {
+}
+
+android_app_import {
+	name: "LWP-1VI",
+	owner: "sony",
+	apk: "VI/LWP-1VI.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-1V",
+	owner: "sony",
+	apk: "V/LWP-1V.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-5V",
+	owner: "sony",
+	apk: "V/LWP-5V.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-1IV",
+	owner: "sony",
+	apk: "IV/LWP-1IV.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-5IV",
+	owner: "sony",
+	apk: "IV/LWP-5IV.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-PRO-I",
+	owner: "sony",
+	apk: "III/LWP-PRO-I.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-1III",
+	owner: "sony",
+	apk: "III/LWP-1III.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-5III",
+	owner: "sony",
+	apk: "III/LWP-5III.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-10III",
+	owner: "sony",
+	apk: "III/LWP-10III.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-PRO",
+	owner: "sony",
+	apk: "II/LWP-PRO.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-1II",
+	owner: "sony",
+	apk: "II/LWP-1II.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-5II",
+	owner: "sony",
+	apk: "II/LWP-5II.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-1-Pro",
+	owner: "sony",
+	apk: "I/LWP-1-Pro.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-5",
+	owner: "sony",
+	apk: "I/LWP-5.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-8",
+	owner: "sony",
+	apk: "I/LWP-8.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-10-Plus",
+	owner: "sony",
+	apk: "I/LWP-10-Plus.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-Ace",
+	owner: "sony",
+	apk: "I/LWP-Ace.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-XZ3",
+	owner: "sony",
+	apk: "Legacy/LWP-XZ3.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-X",
+	owner: "sony",
+	apk: "Legacy/LWP-X.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-Z3",
+	owner: "sony",
+	apk: "Legacy/LWP-Z3.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}
+
+android_app_import {
+	name: "LWP-CosmicFlow",
+	owner: "sony",
+	apk: "Legacy/LWP-CosmicFlow.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	product_specific: true,
+}

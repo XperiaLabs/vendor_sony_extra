@@ -22,6 +22,8 @@ PRODUCT_SOONG_NAMESPACES += \
 TARGET_SHIPS_SOUND_ENHANCEMENT ?= false
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= false
 TARGET_SUPPORTS_XPERIA_STREAM ?= false
+TARGET_SHIPS_XPERIA_LWP ?= false
+TARGET_SHIPS_XPERIA_LWP_NEWEST ?= false
 
 # Sound Enhancements
 ifeq ($(TARGET_SHIPS_SOUND_ENHANCEMENT),true)
@@ -36,4 +38,14 @@ endif
 # Xperia Stream
 ifeq ($(TARGET_SUPPORTS_XPERIA_STREAM),true)
     $(call inherit-product, vendor/sony/extra/Common/stream/stream.mk)
+endif
+
+# Xperia LWPs
+ifeq ($(TARGET_SHIPS_XPERIA_LWP),true)
+    $(call inherit-product, vendor/sony/extra/Common/lwp/lwp.mk)
+endif
+
+# Xperia LWPs | Newest
+ifeq ($(TARGET_SHIPS_XPERIA_LWP_NEWEST),true)
+    $(call inherit-product, vendor/sony/extra/Common/lwp/lwp-newest.mk)
 endif
