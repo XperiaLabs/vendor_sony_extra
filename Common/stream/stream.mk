@@ -23,9 +23,9 @@ LOCAL_STREAM := vendor/sony/extra/Common/stream
 
 # Permissions
 PRODUCT_COPY_FILES += \
-	$(LOCAL_STREAM)/proprietary/system/etc/permissions/jp.co.sony.mc.gameaccui.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/jp.co.sony.mc.gameaccui.xml \
-	$(LOCAL_STREAM)/proprietary/system/etc/permissions/jp.co.sony.mc.gamingfanservice.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/jp.co.sony.mc.gamingfanservice.xml \
-	$(LOCAL_STREAM)/proprietary/system/etc/permissions/com.sonymobile.gesdklibrary.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sonymobile.gesdklibrary.xml
+	$(LOCAL_STREAM)/proprietary/product/etc/permissions/jp.co.sony.mc.gameaccui.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/jp.co.sony.mc.gameaccui.xml \
+	$(LOCAL_STREAM)/proprietary/product/etc/permissions/jp.co.sony.mc.gamingfanservice.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/jp.co.sony.mc.gamingfanservice.xml \
+	$(LOCAL_STREAM)/proprietary/system_ext/etc/permissions/com.sonymobile.gesdklibrary.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.sonymobile.gesdklibrary.xml
 
 # Packages
 PRODUCT_PACKAGES += \
