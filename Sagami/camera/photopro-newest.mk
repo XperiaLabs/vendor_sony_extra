@@ -18,13 +18,7 @@
 PRODUCT_SOONG_NAMESPACES += \
     vendor/sony/extra/Sagami/camera
 
-# Sony Camera
-PRODUCT_PACKAGES += \
-    VideoPro \
-    CameraCommon \
-    CameraAddonPermission \
-    CameraCommonPermission \
-    CameraPanorama \
-    CreativeEffect \
-    PortraitSelfie \
-    MovieCreator
+# Photo Pro (pdx234 | 1 V)
+ifeq ($(TARGET_SHIPS_PHOTO_PRO),true)
+PRODUCT_PACKAGES += PhotoPro-New
+endif

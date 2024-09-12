@@ -21,6 +21,9 @@ PRODUCT_SOONG_NAMESPACES += \
 # Flags
 TARGET_SHIPS_SONY_FRAMEWORK ?= false
 TARGET_SHIPS_SONY_APPS ?= false
+TARGET_SHIPS_SONY_CAMERA ?= false
+TARGET_SHIPS_PHOTO_PRO ?= false
+TARGET_SHIPS_PHOTO_PRO_LEGACY ?= false
 TARGET_SHIPS_SOUND_ENHANCEMENT ?= false
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= false
 TARGET_SUPPORTS_XPERIA_STREAM ?= false
@@ -40,19 +43,29 @@ ifeq ($(TARGET_SHIPS_SONY_APPS),true)
     $(call inherit-product, vendor/sony/extra/Sagami/apps/apps.mk)
 endif
 
-# Sound Enhancements
-ifeq ($(TARGET_SHIPS_SOUND_ENHANCEMENT),true)
-    $(call inherit-product, vendor/sony/extra/Sagami/audio/audio.mk)
+# Sony Camera
+ifeq ($(TARGET_SHIPS_SONY_CAMERA),true)
+    $(call inherit-product, vendor/sony/extra/Sagami/camera/camera.mk)
 endif
 
-# Game Controllers
-ifeq ($(TARGET_SUPPORTS_GAME_CONTROLLERS),true)
-    $(call inherit-product, vendor/sony/extra/Common/controllers/gc.mk)
+# Photo Pro (pdx234 | 1 V)
+ifeq ($(TARGET_SHIPS_PHOTO_PRO),true)
+    $(call inherit-product, vendor/sony/extra/Sagami/camera/photopro-newest.mk)
+endif
+
+# Photo Pro (pdx223 | 1 IV)
+ifeq ($(TARGET_SHIPS_PHOTO_PRO_LEGACY),true)
+    $(call inherit-product, vendor/sony/extra/Sagami/camera/photopro.mk)
 endif
 
 # Xperia Stream
 ifeq ($(TARGET_SUPPORTS_XPERIA_STREAM),true)
     $(call inherit-product, vendor/sony/extra/Common/stream/stream.mk)
+endif
+
+# Game Controllers
+ifeq ($(TARGET_SUPPORTS_GAME_CONTROLLERS),true)
+    $(call inherit-product, vendor/sony/extra/Common/controllers/gc.mk)
 endif
 
 # Xperia LWPs
@@ -63,4 +76,9 @@ endif
 # Xperia LWPs | Newest
 ifeq ($(TARGET_SHIPS_XPERIA_LWP_NEWEST),true)
     $(call inherit-product, vendor/sony/extra/Common/lwp/lwp-newest.mk)
+endif
+
+# Sound Enhancements
+ifeq ($(TARGET_SHIPS_SOUND_ENHANCEMENT),true)
+    $(call inherit-product, vendor/sony/extra/Sagami/audio/audio.mk)
 endif
