@@ -24,6 +24,7 @@ TARGET_SHIPS_SONY_APPS ?= false
 TARGET_SHIPS_SOUND_ENHANCEMENTS ?= false
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= false
 TARGET_SHIPS_XPERIA_LWP ?= false
+TARGET_SHIPS_XPERIA_LWP_CINEMAWIDE ?= false
 TARGET_SHIPS_XPERIA_LWP_NEWEST ?= false
 
 # Sony Framework
@@ -53,6 +54,11 @@ endif
 # Xperia LWPs
 ifeq ($(TARGET_SHIPS_XPERIA_LWP),true)
     $(call inherit-product, vendor/sony/extra/Common/lwp/lwp.mk)
+endif
+
+# Xperia LWPs | CinemaWide (21:9)
+ifeq ($(TARGET_SHIPS_XPERIA_LWP_CINEMAWIDE),true)
+    $(call inherit-product, vendor/sony/extra/Common/lwp/lwp-cinemawide.mk)
 endif
 
 # Xperia LWPs | Newest
