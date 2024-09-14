@@ -1,3 +1,4 @@
 # Allow rules for vendor_360ra_prop
 allow vendor_init vendor_360ra_prop:property_service set;
 allow vendor_init vendor_360ra_prop:file { read getattr map open };
+allow vendor_init vendor_spatializer_prop:property_service set;
