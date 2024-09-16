@@ -20,6 +20,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Sony Camera
 PRODUCT_PACKAGES += \
+    CinemaPro \
     VideoPro \
     CameraCommon \
     CameraAddonPermission \
