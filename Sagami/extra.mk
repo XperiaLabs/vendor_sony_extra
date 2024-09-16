@@ -27,6 +27,7 @@ TARGET_SHIPS_PHOTO_PRO_LEGACY ?= false
 TARGET_SHIPS_SOUND_ENHANCEMENT ?= false
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= false
 TARGET_SUPPORTS_XPERIA_STREAM ?= false
+TARGET_SUPPORTS_XPERIA_STREAM_LAWNCHAIR ?= false
 TARGET_SHIPS_XPERIA_LWP ?= false
 TARGET_SHIPS_XPERIA_LWP_CINEMAWIDE ?= false
 TARGET_SHIPS_XPERIA_LWP_NEWEST ?= false
@@ -62,6 +63,11 @@ endif
 # Xperia Stream
 ifeq ($(TARGET_SUPPORTS_XPERIA_STREAM),true)
     $(call inherit-product, vendor/sony/extra/Common/stream/stream.mk)
+endif
+
+# Xperia Stream (Lawnchair Launcher)
+ifeq ($(TARGET_SUPPORTS_XPERIA_STREAM_LAWNCHAIR),true)
+    $(call inherit-product, vendor/sony/extra/Common/stream/stream-lawnchair.mk)
 endif
 
 # Game Controllers

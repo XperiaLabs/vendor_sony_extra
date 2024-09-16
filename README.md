@@ -21,6 +21,7 @@ include vendor/sony/extra/Series/extra.mk
 |`TARGET_SHIPS_SOUND_ENHANCEMENT`|`Ships the needed blobs & apps for Audio Settings (Dolby Sound, 360 Reality Audio Upmix) to work`|
 |`TARGET_SUPPORTS_GAME_CONTROLLERS`|`Ships Sony's Game controller app and needed layouts for various controllers`|
 |`TARGET_SUPPORTS_XPERIA_STREAM`|`Ships Sony's "Xperia Stream" suite for the Xperia Stream gaming accessory which should work on (Xperia 1 III, IV and V)`|
+|`TARGET_SUPPORTS_XPERIA_STREAM_LAWNCHAIR`|`Ships Sony's "Xperia Stream" suite for the Xperia Stream gaming accessory which should work on (Xperia 1 III, IV and V) this flag is for ROMs that ship the Lawnchair Launcher by default`|
 |`TARGET_SHIPS_XPERIA_LWP`|`Ships the Live Wallpaper from the latest Xperia flagship`|
 |`TARGET_SHIPS_XPERIA_LWP_CINEMAWIDE`|`Ships LWP from the last flagship Xperia with a 21:9 aspect ratio, the 1 V (Since the 1 VI one is not centered on some newer Xperias)`|
 |`TARGET_SHIPS_XPERIA_LWP_NEWEST`|`Ships all Xperia Live Wallpapers`|
