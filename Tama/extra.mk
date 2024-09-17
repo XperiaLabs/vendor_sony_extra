@@ -15,8 +15,7 @@
 #
 
 # Soong Namespace
-PRODUCT_SOONG_NAMESPACES += \
-    vendor/sony/extra/Tama
+PRODUCT_SOONG_NAMESPACES += vendor/sony/extra/Tama
 
 # Flags
 TARGET_SHIPS_SONY_FRAMEWORK ?= false

@@ -15,10 +15,10 @@
 #
 
 # Soong Namespace
-PRODUCT_SOONG_NAMESPACES += \
-    vendor/sony/extra/Yodo
+PRODUCT_SOONG_NAMESPACES += vendor/sony/extra/Yodo
 
 # Flags
+TARGET_SHIPS_SONY_APP_EXTERNAL_MONITOR ?= false
 TARGET_SHIPS_SOUND_ENHANCEMENT ?= false
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= false
 TARGET_SUPPORTS_XPERIA_STREAM ?= false
@@ -26,6 +26,11 @@ TARGET_SUPPORTS_XPERIA_STREAM_LAWNCHAIR ?= false
 TARGET_SHIPS_XPERIA_LWP ?= false
 TARGET_SHIPS_XPERIA_LWP_CINEMAWIDE ?= false
 TARGET_SHIPS_XPERIA_LWP_NEWEST ?= false
+
+# Sony Apps | External Monitor
+ifeq ($(TARGET_SHIPS_SONY_APP_EXTERNAL_MONITOR),true)
+    $(call inherit-product, vendor/sony/extra/Common/apps/extmon.mk)
+endif
 
 # Sound Enhancements
 ifeq ($(TARGET_SHIPS_SOUND_ENHANCEMENT),true)

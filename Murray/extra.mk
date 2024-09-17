@@ -15,12 +15,12 @@
 #
 
 # Soong Namespace
-PRODUCT_SOONG_NAMESPACES += \
-    vendor/sony/extra/Murray
+PRODUCT_SOONG_NAMESPACES += vendor/sony/extra/Murray
 
 # Flags
 TARGET_SHIPS_SONY_FRAMEWORK ?= false
 TARGET_SHIPS_SONY_APPS ?= false
+TARGET_SHIPS_SONY_APP_EXTERNAL_MONITOR ?= false
 TARGET_SHIPS_SOUND_ENHANCEMENTS ?= false
 TARGET_SUPPORTS_GAME_CONTROLLERS ?= false
 TARGET_SHIPS_XPERIA_LWP ?= false
@@ -37,7 +37,12 @@ endif
 
 # Sony Apps
 ifeq ($(TARGET_SHIPS_SONY_APPS),true)
-    $(call inherit-product, vendor/sony/extra/Murray/apps/apps.mk)
+    $(call inherit-product, vendor/sony/extra/Common/apps/apps.mk)
+endif
+
+# Sony Apps | External Monitor
+ifeq ($(TARGET_SHIPS_SONY_APP_EXTERNAL_MONITOR),true)
+    $(call inherit-product, vendor/sony/extra/Common/apps/extmon.mk)
 endif
 
 # Sound Enhancements

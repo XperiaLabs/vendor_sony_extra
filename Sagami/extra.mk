@@ -15,12 +15,12 @@
 #
 
 # Soong Namespace
-PRODUCT_SOONG_NAMESPACES += \
-    vendor/sony/extra/Sagami
+PRODUCT_SOONG_NAMESPACES += vendor/sony/extra/Sagami
 
 # Flags
 TARGET_SHIPS_SONY_FRAMEWORK ?= false
 TARGET_SHIPS_SONY_APPS ?= false
+TARGET_SHIPS_SONY_APP_EXTERNAL_MONITOR ?= false
 TARGET_SHIPS_SONY_CAMERA ?= false
 TARGET_SHIPS_PHOTO_PRO ?= false
 TARGET_SHIPS_PHOTO_PRO_LEGACY ?= false
@@ -42,7 +42,12 @@ endif
 
 # Sony Apps
 ifeq ($(TARGET_SHIPS_SONY_APPS),true)
-    $(call inherit-product, vendor/sony/extra/Sagami/apps/apps.mk)
+    $(call inherit-product, vendor/sony/extra/Common/apps/apps.mk)
+endif
+
+# Sony Apps | External Monitor
+ifeq ($(TARGET_SHIPS_SONY_APP_EXTERNAL_MONITOR),true)
+    $(call inherit-product, vendor/sony/extra/Common/apps/extmon.mk)
 endif
 
 # Sony Camera

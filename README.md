@@ -18,6 +18,7 @@ include vendor/sony/extra/Series/extra.mk
 |`TARGET_SHIPS_PHOTO_PRO`|`Ships the 1 V Photo Pro, worse quality with the default camera stack (This is a Sagami series exclusive flag)`|
 |`TARGET_SHIPS_PHOTO_PRO_LEGACY`|`Ships the 1 IV Photo Pro, original quality with the default camera stack (This is a Sagami series exclusive flag)`|
 |`TARGET_SHIPS_SONY_APPS`|`Ships some miscellaneous Sony apps`|
+|`TARGET_SHIPS_SONY_APP_EXTERNAL_MONITOR`|`Ships the External Monitor app (Needs kernel support so some device may not support it)`|
 |`TARGET_SHIPS_SOUND_ENHANCEMENT`|`Ships the needed blobs & apps for Audio Settings (Dolby Sound, 360 Reality Audio Upmix) to work`|
 |`TARGET_SUPPORTS_GAME_CONTROLLERS`|`Ships Sony's Game controller app and needed layouts for various controllers`|
 |`TARGET_SUPPORTS_XPERIA_STREAM`|`Ships Sony's "Xperia Stream" suite for the Xperia Stream gaming accessory which should work on (Xperia 1 III, IV and V)`|
