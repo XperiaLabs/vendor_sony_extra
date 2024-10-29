@@ -81,7 +81,7 @@ android_app_import {
 	name: "UsbExtOutAudio",
 	owner: "sony",
 	apk: "UsbExtOutAudio/UsbExtOutAudio.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
