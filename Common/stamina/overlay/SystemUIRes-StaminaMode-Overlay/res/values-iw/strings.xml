@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">הקש כדי לתזמן מצב STAMINA</string>
+    <string name="battery_detail_switch_title">מצב STAMINA</string>
+    <string name="battery_low_description">"אחוז הטעינה של הסוללה: %s. התכונה 'מצב STAMINA' מפעילה עיצוב כהה, מגבילה את הפעילות ברקע ומשהה את ההתראות."</string>
+    <string name="battery_low_intro">"התכונה 'מצב STAMINA' מפעילה עיצוב כהה, מגבילה את הפעילות ברקע ומשהה את ההתראות."</string>
+    <string name="battery_low_title">"האם להפעיל את 'מצב STAMINA'?"</string>
+    <string name="battery_saver_confirmation_title">האם להפעיל מצב STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">אודות מצב STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">מצב STAMINA</string>
+</resources>

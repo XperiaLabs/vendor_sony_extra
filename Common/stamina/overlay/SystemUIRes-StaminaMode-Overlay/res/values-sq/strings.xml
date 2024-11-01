@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Trokitni lehtë për të planifikuar regjimin STAMINA</string>
+    <string name="battery_detail_switch_title">Regjimi STAMINA</string>
+    <string name="battery_low_description">Ke %s bateri të mbetur. Regjimi STAMINA aktivizon Temën e errët, kufizon aktivitetet në sfond dhe vonon njoftimet.</string>
+    <string name="battery_low_intro">Regjimi STAMINA aktivizon Temën e errët, kufizon aktivitetet në sfond dhe vonon njoftimet.</string>
+    <string name="battery_low_title">Të aktivizohet regjimi STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Të aktivizohet regjimi STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Rreth regjimit STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Regjimi STAMINA</string>
+</resources>

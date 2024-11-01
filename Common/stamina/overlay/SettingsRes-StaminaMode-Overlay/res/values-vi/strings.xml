@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Chế độ STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Chế độ STAMINA sẽ bật nếu pin của bạn có khả năng hết điện trước lần sạc thông thường tiếp theo của bạn</string>
+    <string name="battery_saver_master_switch_title">Sử dụng chế độ STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Chế độ STAMINA sẽ tắt khi pin đạt %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Ứng dụng của bạn đang sử dụng lượng pin ở mức bình thường. Nếu ứng dụng sử dụng quá nhiều pin thì thiết bị sẽ đề xuất các thao tác mà bạn có thể thực hiện.
+
+Bạn có thể kích hoạt chế độ STAMINA nếu sắp hết pin."</string>
+    <string name="battery_tip_early_heads_up_done_title">Chế độ STAMINA đang bật</string>
+    <string name="battery_tip_early_heads_up_title">Bật chế độ STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Bật chế độ STAMINA để kéo dài thời lượng pin</string>
+    <string name="condition_battery_title">Chế độ STAMINA đang bật</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Đang bật/Tạm thời tắt do chế độ STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Đang bật/Tạm thời tắt do chế độ STAMINA</string>
+    <string name="keywords_battery_saver_schedule">thông thường, lịch trình, chế độ stamina, trình tiết kiệm điện, pin, tự động, phần trăm</string>
+    <string name="keywords_battery_saver_sticky">chế độ stamina, lâu dài, dai dẳng, trình tiết kiệm pin, pin</string>
+</resources>

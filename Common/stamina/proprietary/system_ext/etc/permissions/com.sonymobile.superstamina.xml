@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.sonymobile.superstamina.api"
+        file="/system_ext/framework/com.sonymobile.superstamina_impl.jar"/>
+    <library name="com.sonymobile.superstamina.api_2"
+        file="/system_ext/framework/com.sonymobile.superstamina_impl.jar"/>
+    <library name="com.sonymobile.superstamina.api_3"
+        file="/system_ext/framework/com.sonymobile.superstamina_impl.jar"/>
+
+    <privapp-permissions package="com.sonymobile.superstamina">
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.ACCESS_SURFACE_FLINGER"/>
+        <permission name="android.permission.BATTERY_STATS"/>
+        <permission name="android.permission.BROADCAST_STICKY"/>
+        <permission name="android.permission.CONNECTIVITY_INTERNAL"/>
+        <permission name="android.permission.DELETE_PACKAGES"/>
+        <permission name="android.permission.DEVICE_POWER"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+        <permission name="android.permission.INTERNAL_SYSTEM_WINDOW"/>
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.MODIFY_DAY_NIGHT_MODE"/>
+        <permission name="android.permission.POWER_SAVER"/>
+        <permission name="android.permission.READ_PRECISE_PHONE_STATE"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.WAKE_LOCK"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="com.sonyericsson.permission.IDD"/>
+        <permission name="com.sonymobile.permission.XSSM"/>
+        <permission name="com.sonymobile.permission.XSSM_PROVIDER"/>
+        <permission name="com.sonymobile.superstamina.permission.SUPERSTAMINA_PRIVATE"/>
+    </privapp-permissions>
+</permissions>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Način STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Način STAMINA se vklopi, če je verjetno, da se bo akumulator izpraznil pred naslednjim običajnim polnjenjem</string>
+    <string name="battery_saver_master_switch_title">Uporaba načina STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Način STAMINA se izklopi, ko je baterija napolnjena na %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Aplikacije porabljajo običajno količino energije akumulatorja. V primeru prekomerne porabe energije vam bo naprava predlagala ustrezne ukrepe.
+
+Če bateriji zmanjkuje energije, lahko vklopite način STAMINA."</string>
+    <string name="battery_tip_early_heads_up_done_title">Način STAMINA je vklopljen</string>
+    <string name="battery_tip_early_heads_up_title">Vklop načina STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Vklopite ​način STAMINA za podaljšanje časa delovanja baterije</string>
+    <string name="condition_battery_title">Način STAMINA je vklopljen</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Začasno vklopljeno zaradi načina STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Vklopljeno/začasno onemogočeno zaradi načina STAMINA</string>
+    <string name="keywords_battery_saver_schedule">postopek, urnik, način stamina, varčevanje z baterijo, baterija, samodejno, odstotek</string>
+    <string name="keywords_battery_saver_sticky">način stamina, dolgotrajno, trajno, varčevanje z energijo, baterija</string>
+</resources>

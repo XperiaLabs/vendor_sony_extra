@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA മോഡ്, ബാറ്ററി ഈട് വർദ്ധിപ്പിക്കാനായി പശ്ചാത്തല പ്രവർത്തനവും ചില ദൃശ്യ ഇഫക്റ്റുകളും ഉയർന്ന പവർ ഉപഭോഗമുള്ള സവിശേഷതകളും ഓഫ് ചെയ്യുകയോ പരിമിതപ്പെടുത്തുകയോ ചെയ്യുന്നു.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA മോഡ്, ബാറ്ററി ഈട് വർദ്ധിപ്പിക്കാനായി പശ്ചാത്തല പ്രവർത്തനവും ചില ദൃശ്യ ഇഫക്റ്റുകളും ഉയർന്ന പവർ ഉപഭോഗമുള്ള സവിശേഷതകളും ഓഫ് ചെയ്യുകയോ പരിമിതപ്പെടുത്തുകയോ ചെയ്യുന്നു. <annotation id="url">കൂടുതലറിയുക</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA മോഡ്</string>
+    <string name="battery_saver_off_notification_title">STAMINA മോഡ് ഓഫാക്കി</string>
+</resources>

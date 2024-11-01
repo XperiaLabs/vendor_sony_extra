@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Im STAMINA-Modus werden Hintergrundaktivitäten, einige optische Effekte und weitere Funktionen mit hohem Energiebedarf abgeschaltet oder eingeschränkt, um die Akkulaufzeit zu verlängern.</string>
+    <string name="battery_saver_description_with_learn_more">Im STAMINA-Modus werden Hintergrundaktivitäten, einige optische Effekte und weitere Funktionen mit hohem Energiebedarf abgeschaltet oder eingeschränkt, um die Akkulaufzeit zu verlängern. <annotation id="url">Weitere Informationen</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA-Modus</string>
+    <string name="battery_saver_off_notification_title">STAMINA-Modus deaktiviert</string>
+    <string name="dynamic_mode_notification_title">STAMINA-Modus ist aktiviert</string>
+</resources>

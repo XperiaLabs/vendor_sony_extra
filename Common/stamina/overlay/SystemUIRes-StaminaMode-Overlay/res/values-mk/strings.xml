@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Допрете за да го закажете STAMINA-режимот</string>
+    <string name="battery_detail_switch_title">STAMINA-режим</string>
+    <string name="battery_low_description">Имате уште %s батерија. STAMINA-режимот ја вклучува Темната тема, ја ограничува активноста во заднина и ги одложува известувањата.</string>
+    <string name="battery_low_intro">STAMINA-режимот ја вклучува Темната тема, ја ограничува активноста во заднина и ги одложува известувањата.</string>
+    <string name="battery_low_title">Да се вклучи STAMINA-режимот?</string>
+    <string name="battery_saver_confirmation_title">Да се вклучи STAMINA-режимот?</string>
+    <string name="battery_saver_confirmation_title_generic">За STAMINA-режимот</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA-режим</string>
+</resources>

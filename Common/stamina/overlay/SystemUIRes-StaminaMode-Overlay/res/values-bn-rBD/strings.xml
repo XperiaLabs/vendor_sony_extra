@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA মোডের সময় নির্ধারণ করতে আলতো চাপুন</string>
+    <string name="battery_detail_switch_title">STAMINA মোড</string>
+    <string name="battery_low_description">আপনার আর %s ব্যাটারি আছে। STAMINA মোড গাঢ় থীম চালু করে, ব্যাকগ্রাউন্ড অ্যাক্টিভিটি সীমিত করে এবং বিজ্ঞপ্তিতে দেরি করে।</string>
+    <string name="battery_low_intro">STAMINA মোড গাঢ় থীম চালু করে, ব্যাকগ্রাউন্ড অ্যাক্টিভিটি সীমিত করে এবং বিজ্ঞপ্তিতে দেরি করে।</string>
+    <string name="battery_low_title">"'STAMINA মোড' চালু করতে চান?"</string>
+    <string name="battery_saver_confirmation_title">STAMINA মোড চালু করবেন?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA মোড সম্বন্ধে</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA মোড</string>
+</resources>

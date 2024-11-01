@@ -1,0 +1,2 @@
+# Stamina
+vendor.somc.hardware.superstamina::ISuperStamina                          u:object_r:hal_somc_superstamina_hwservice:s0

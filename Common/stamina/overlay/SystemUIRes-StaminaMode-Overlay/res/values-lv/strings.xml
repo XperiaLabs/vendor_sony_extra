@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Piesitiet, lai ieplānotu STAMINA režīmu</string>
+    <string name="battery_detail_switch_title">STAMINA režīms</string>
+    <string name="battery_low_description">Atlikušais akumulatora uzlādes līmenis: %s. STAMINA režīmā tiek ieslēgts Tumšais motīvs, ierobežotas darbības fonā un aizkavēti paziņojumi.</string>
+    <string name="battery_low_intro">STAMINA režīmā tiek ieslēgts Tumšais motīvs, ierobežotas darbības fonā un aizkavēti paziņojumi.</string>
+    <string name="battery_low_title">Vai ieslēgt STAMINA režīmu?</string>
+    <string name="battery_saver_confirmation_title">Vai ieslēgt STAMINA režīmu?</string>
+    <string name="battery_saver_confirmation_title_generic">Par STAMINA režīmu</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA režīms</string>
+</resources>

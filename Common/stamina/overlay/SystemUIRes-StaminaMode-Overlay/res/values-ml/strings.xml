@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA ഷെഡ്യൂൾ ചെയ്യാൻ ടാപ് ചെയ്യുക</string>
+    <string name="battery_detail_switch_title">STAMINA മോഡ്</string>
+    <string name="battery_low_description">നിങ്ങളുടെ ബാറ്ററിയിൽ %s ചാർജ് ശേഷിക്കുന്നു. STAMINA മോഡ്, ഡാർക്ക് തീം ഓണാക്കുകയും പശ്ചാത്തല ആക്‌ടിവിറ്റി നിയന്ത്രിക്കുകയും അറിയിപ്പുകൾ വെെകിപ്പിക്കുകയും ചെയ്യുന്നു.</string>
+    <string name="battery_low_intro">STAMINA മോഡ്, ഡാർക്ക് തീം ഓണാക്കുകയും പശ്ചാത്തല ആക്‌ടിവിറ്റി നിയന്ത്രിക്കുകയും അറിയിപ്പുകൾ വെെകിപ്പിക്കുകയും ചെയ്യുന്നു.</string>
+    <string name="battery_low_title">STAMINA മോഡ് ഓണാക്കണോ?</string>
+    <string name="battery_saver_confirmation_title">STAMINA മോഡ് ഓണാക്കണോ?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA മോഡിനെ കുറിച്ച്</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA മോഡ്</string>
+</resources>

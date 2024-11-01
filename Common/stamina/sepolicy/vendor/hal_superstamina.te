@@ -1,0 +1,11 @@
+# HwBinder IPC from client to server, and callbacks
+binder_call(hal_superstamina_client, hal_superstamina_server)
+binder_call(hal_superstamina_server, hal_superstamina_client)
+
+add_hwservice(hal_superstamina_server, hal_somc_superstamina_hwservice)
+allow hal_superstamina_client hal_somc_superstamina_hwservice:hwservice_manager find;
+
+allow hal_superstamina sysfs:file rw_file_perms;
+allow hal_superstamina sysfs_dp:file rw_file_perms;
+
+set_prop(hal_superstamina, vendor_hal_superstamina_prop)

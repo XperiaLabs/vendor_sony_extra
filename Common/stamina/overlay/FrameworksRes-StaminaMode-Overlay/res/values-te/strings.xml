@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">బ్యాటరీ జీవిత కాలాన్ని పొడిగించడానికి STAMINA విధానం ఆఫ్ చేయబడుతుంది లేదా నేపథ్య యాక్టివిటి, కొన్ని దృశ్యమాన ప్రభావాలు &amp; ఇతర అత్యధిక-పవర్ ఫీచర్‌లు పరిమితం చేయబడతాయి.</string>
+    <string name="battery_saver_description_with_learn_more">బ్యాటరీ జీవిత కాలాన్ని పొడిగించడానికి STAMINA విధానం ఆఫ్ అవుతుంది లేదా నేపథ్య యాక్టివిటి, కొన్ని విజువల్ ప్రభావాలు &amp; ఇతర అత్యధిక-పవర్ ఫీచర్‌లు పరిమితం చేయబడతాయి. <annotation id="url">మరింత తెలుసుకోండి</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA విధానం</string>
+    <string name="battery_saver_off_notification_title">STAMINA విధాానం ఆఫ్ చేయబడింది</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">I STAMINA-läget inaktiveras eller begränsas aktivitet i bakgrunden, vissa visuella effekter och andra funktioner som drar mycket ström i syfte att förlänga batteritiden</string>
+    <string name="battery_saver_description_with_learn_more">I STAMINA-läget inaktiveras eller begränsas aktivitet i bakgrunden, vissa visuella effekter och andra funktioner som drar mycket ström i syfte att förlänga batteritiden. <annotation id="url">Läs mer</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA-läge</string>
+    <string name="battery_saver_off_notification_title">STAMINA-läget inaktiverat.</string>
+    <string name="dynamic_mode_notification_title">STAMINA-läget är aktiverat</string>
+</resources>

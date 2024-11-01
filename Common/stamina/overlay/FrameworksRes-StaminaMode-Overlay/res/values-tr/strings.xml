@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA mod, pil ömrünü uzatmak için arka plan etkinliğini, bazı görsel efektleri ve güç tüketimi fazla olan diğer özellikleri kapatır veya sınırlandırır.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA modu, pil ömrünü uzatmak için arka plan etkinliğini, bazı görsel efektleri ve güç tüketimi fazla olan diğer özellikleri kapatır veya sınırlandırır. <annotation id="url">Daha Fazla Bilgi</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA modu</string>
+    <string name="battery_saver_off_notification_title">STAMINA modu kapalı</string>
+    <string name="dynamic_mode_notification_title">STAMINA modu açıldı</string>
+</resources>

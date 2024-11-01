@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Tryb STAMINA wyłącza lub ogranicza aktywność w tle, niektóre efekty wizualne i inne funkcje wymagające dużej mocy, aby wydłużyć żywotność baterii.</string>
+    <string name="battery_saver_description_with_learn_more">Tryb STAMINA wyłącza lub ogranicza aktywność w tle, niektóre efekty wizualne i inne funkcje wymagające dużej mocy, aby wydłużyć żywotność baterii. <annotation id="url">Więcej informacji</annotation></string>
+    <string name="battery_saver_notification_channel_name">Tryb STAMINA</string>
+    <string name="battery_saver_off_notification_title">Tryb STAMINA jest wyłączony.</string>
+    <string name="dynamic_mode_notification_title">Tryb STAMINA jest włączony</string>
+</resources>

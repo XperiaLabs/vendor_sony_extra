@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Režim STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Režim STAMINA se zapne, když bude pravděpodobné, že se baterie vybije dřív, než zařízení obvykle nabíjíte.</string>
+    <string name="battery_saver_master_switch_title">Použít režim STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Režim STAMINA se vypne, když baterie dosáhne hodnoty %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Vaše aplikace spotřebovávají běžné množství baterie. Pokud dojde k velkému zvýšení spotřeby, zařízení vám doporučí možné akce.
+
+Pokud vám dochází baterie, můžete vždy zapnout režim STAMINA."</string>
+    <string name="battery_tip_early_heads_up_done_title">Režim STAMINA je zapnutý</string>
+    <string name="battery_tip_early_heads_up_title">Zapnout režim STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Pokud chcete prodloužit výdrž baterie, zapněte režim STAMINA</string>
+    <string name="condition_battery_title">Režim STAMINA je zapnutý</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Dočasně zapnuto režimem STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Zapnuto / Dočasně deaktivováno režimem STAMINA</string>
+    <string name="keywords_battery_saver_schedule">režim, harmonogram, režim stamina, úspora energie, baterie, automatické, procento</string>
+    <string name="keywords_battery_saver_sticky">režim stamina, trvalé, zachovat, úspora energie, baterie</string>
+</resources>

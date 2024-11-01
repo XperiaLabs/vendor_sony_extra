@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Режим STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Включать режим STAMINA, если высока вероятность, что уровня заряда не хватит до подзарядки</string>
+    <string name="battery_saver_master_switch_title">Исп. режим STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Режим STAMINA отключается, когда уровень заряда достигает %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Ваши приложения расходуют заряд аккумулятора в нормальном режиме. При повышенном расходе вы получите рекомендации на устройстве о возможных действиях.
+
+Если заряд аккумулятора будет на исходе, вы всегда можете включить режим STAMINA."</string>
+    <string name="battery_tip_early_heads_up_done_title">Режим STAMINA включен</string>
+    <string name="battery_tip_early_heads_up_title">Включить режим STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Чтобы увеличить время работы от аккумулятора, включите режим STAMINA</string>
+    <string name="condition_battery_title">Режим STAMINA включен</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Временно включена из-за режима STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Включена (временно отключено из-за режима STAMINA)</string>
+    <string name="keywords_battery_saver_schedule">процедура, расписание, режим stamina, экономия энергии, аккумулятор, автоматически, процент</string>
+    <string name="keywords_battery_saver_sticky">режим stamina, постоянный, экономия энергии, аккумулятор</string>
+</resources>

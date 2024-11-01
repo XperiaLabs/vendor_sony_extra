@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">[Ţåþ ţö šçĥéðûļé ŠŢÅḾÎÑÅ ḿöðé one two three four]</string>
+    <string name="battery_detail_switch_title">[ŠŢÅḾÎÑÅ ḿöðé one two]</string>
+    <string name="battery_low_description">[Ýöû ĥåVé %s ɓåţţéŕý ļéƒţ. ŠŢÅḾÎÑÅ ḿöðé ţûŕñš öñ Ðåŕķ ţĥéḿé, ŕéšţŕîçţš ɓåçķĝŕöûñð åçţîVîţý, åñð ðéļåýš ñöţîƒîçåţîöñš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]</string>
+    <string name="battery_low_intro">[ŠŢÅḾÎÑÅ ḿöðé ţûŕñš öñ Ðåŕķ ţĥéḿé, ŕéšţŕîçţš ɓåçķĝŕöûñð åçţîVîţý, åñð ðéļåýš ñöţîƒîçåţîöñš. one two three four five six seven eight nine ten]</string>
+    <string name="battery_low_title">[Ţûŕñ öñ ŠŢÅḾÎÑÅ ḿöðé¿ one two three]</string>
+    <string name="battery_saver_confirmation_title">[Ţûŕñ öñ ŠŢÅḾÎÑÅ ḿöðé¿ one two three]</string>
+    <string name="battery_saver_confirmation_title_generic">[Åɓöûţ ŠŢÅḾÎÑÅ ḿöðé one two three]</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">[ŠŢÅḾÎÑÅ ḿöðé one two]</string>
+</resources>

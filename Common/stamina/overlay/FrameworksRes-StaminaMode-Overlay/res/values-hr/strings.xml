@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA način rada isključuje ili ograničava aktivnosti u pozadini, neke vizualne efekte i druge značajke koje troše mnogo energije da bi se produljilo trajanje baterije.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA način rada isključuje ili ograničava aktivnosti u pozadini, neke vizualne efekte i druge značajke koje troše mnogo energije da bi se produljilo trajanje baterije. <annotation id="url">Saznajte više</annotation></string>
+    <string name="battery_saver_notification_channel_name">Način STAMINA</string>
+    <string name="battery_saver_off_notification_title">Isključen je način STAMINA</string>
+    <string name="dynamic_mode_notification_title">Uključen je način STAMINA</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA பயன்முறை பேட்டரியின் நிலையை நீட்டிக்க பின்னணிச் செயல்பாடு, சில விஷுவல் எஃபெக்ட்ஸ் &amp; அதிக மின்சக்தியைப் பயன்படுத்தும் அம்சங்களை முடக்கும் அல்லது தடைசெய்யும்.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA பயன்முறை பேட்டரியின் நிலையை நீட்டிக்க பின்னணிச் செயல்பாடு, சில விஷுவல் எஃபெக்ட்ஸ் &amp; அதிக மின்சக்தியைப் பயன்படுத்தும் அம்சங்களை முடக்கும் அல்லது தடைசெய்யும். <annotation id="url">மேலும் அறிக</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA பயன்முறை</string>
+    <string name="battery_saver_off_notification_title">STAMINA பயன்முறை ஆஃப்</string>
+</resources>

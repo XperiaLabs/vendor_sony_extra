@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Mode STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Mode STAMINA aktif jika baterai Anda kemungkinan akan habis sebelum pengisian daya berikutnya</string>
+    <string name="battery_saver_master_switch_title">Gunakan mode STAMINA</string>
+    <string name="battery_tip_dialog_summary_message">"Penggunaan baterai oleh aplikasi Anda normal. Jika aplikasi terlalu boros menggunakan baterai, ponsel Anda akan menyarankan tindakan yang dapat diambil.
+
+Anda selalu dapat mengaktifkan mode STAMINA jika baterai hampir habis."</string>
+    <string name="battery_tip_early_heads_up_done_title">Mode STAMINA aktif</string>
+    <string name="battery_tip_early_heads_up_title">Aktifkan mode STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Nyalakan mode STAMINA untuk memperpanjang masa pakai baterai</string>
+    <string name="condition_battery_title">Mode STAMINA aktif</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Diaktifkan sementara karena mode STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Hidup / Dinonaktifkan sementara karena mode STAMINA</string>
+    <string name="keywords_battery_saver_schedule">rutin, jadwal, mode stamina, penghemat daya, baterai, otomatis, persen</string>
+    <string name="keywords_battery_saver_sticky">mode stamina, melekat, bertahan, penghemat daya, baterai</string>
+</resources>

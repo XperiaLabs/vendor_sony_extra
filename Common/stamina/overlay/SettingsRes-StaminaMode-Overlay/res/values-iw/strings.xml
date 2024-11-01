@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">מצב STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">מצב STAMINA מופעל אם סביר שהסוללה תתרוקן לפני הזמן שבו בדרך כלל מתבצעת הטעינה הבאה</string>
+    <string name="battery_saver_master_switch_title">השתמש במצב STAMINA</string>
+    <string name="battery_tip_dialog_summary_message">"האפליקציות משתמשות בכמות רגילה של צריכת סוללה. אם אפליקציות יצרכו יותר מדי מהסוללה, הטלפון יציע פעולות שאפשר לנקוט.
+
+ניתן תמיד להפעיל את מצב STAMINA אם הסוללה עומדת להתרוקן."</string>
+    <string name="battery_tip_early_heads_up_done_title">מצב STAMINA מופעל</string>
+    <string name="battery_tip_early_heads_up_title">הפעל את מצב STAMINA</string>
+    <string name="battery_tip_low_battery_summary">מצב STAMINA הופעל כדי להאריך את חיי הסוללה</string>
+    <string name="condition_battery_title">מצב STAMINA מופעל</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">מופעל זמנית עקב מצב STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">מופעל/מנוטרל זמנית עקב מצב STAMINA</string>
+    <string name="keywords_battery_saver_schedule">שגרה, לוח זמנים, תזמן, תזמון, מצב stamina, חיסכון באנרגיה, סוללה, אוטומטי, אחוז, אחוזים</string>
+    <string name="keywords_battery_saver_sticky">מצב STAMINA, תמידי, התמדה, חיסכון באנרגיה, סוללה</string>
+</resources>

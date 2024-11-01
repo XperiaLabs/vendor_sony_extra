@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Tryb STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Tryb STAMINA włącza się, jeżeli bateria prawdopodobnie się wyczerpie przed następnym typowym ładowaniem</string>
+    <string name="battery_saver_master_switch_title">Użyj trybu STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Tryb STAMINA wyłączy się, gdy poziom naładowania baterii wyniesie %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Twoje aplikacje używają normalnej ilości energii. Jeżeli będą zużywać zbyt dużo energii, urządzenie zaproponuje odpowiednie działania.
+
+Jeżeli bateria będzie się wyczerpywać, możesz zawsze włączyć tryb STAMINA."</string>
+    <string name="battery_tip_early_heads_up_done_title">Tryb STAMINA jest włączony</string>
+    <string name="battery_tip_early_heads_up_title">Włącz tryb STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Włącz tryb STAMINA, aby wydłużyć czas pracy baterii</string>
+    <string name="condition_battery_title">Tryb STAMINA jest włączony</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Czasowo włączony z powodu trybu STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Wł. / Czasowo wyłączony z powodu trybu STAMINA</string>
+    <string name="keywords_battery_saver_schedule">rutynowe, harmonogram, tryb STAMINA, oszczędzanie energii, bateria, automatyczne, procent</string>
+    <string name="keywords_battery_saver_sticky">tryb stamina, stały, trwały, oszczędzanie energii, bateria</string>
+</resources>

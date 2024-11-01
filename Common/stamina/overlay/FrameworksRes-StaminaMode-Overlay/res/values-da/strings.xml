@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA-tilstand deaktiverer eller begrænser baggrundsaktivitet, visse visuelle effekter og andre batterikrævende funktioner for at forlænge batteritiden.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA-tilstand deaktiverer eller begrænser baggrundsaktivitet, visse visuelle effekter og andre batterikrævende funktioner for at forlænge batteritiden. <annotation id="url">Få mere at vide</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA-tilstand</string>
+    <string name="battery_saver_off_notification_title">STAMINA-tilstand er slået fra</string>
+    <string name="dynamic_mode_notification_title">STAMINA-tilstand er slået til</string>
+</resources>

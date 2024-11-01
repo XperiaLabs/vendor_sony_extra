@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Mod STAMINA mematikan atau menyekat aktiviti latar belakang, beberapa kesan visual &amp; ciri kuasa tinggi yang lain untuk melanjutkan hayat bateri.</string>
+    <string name="battery_saver_description_with_learn_more">Mod STAMINA mematikan atau menyekat aktiviti latar belakang, beberapa kesan visual &amp; ciri kuasa tinggi yang lain untuk melanjutkan hayat bateri. <annotation id="url">Ketahui Lebih Lanjut</annotation></string>
+    <string name="battery_saver_notification_channel_name">Mod STAMINA</string>
+    <string name="battery_saver_off_notification_title">Mod STAMINA dimatikan</string>
+    <string name="dynamic_mode_notification_title">Mod STAMINA dihidupkan</string>
+</resources>

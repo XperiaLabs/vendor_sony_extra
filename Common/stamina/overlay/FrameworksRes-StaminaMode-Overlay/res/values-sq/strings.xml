@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Regjimi STAMINA çaktivizohet ose kufizon aktivitetin në sfond, disa efekte vizuale dhe funksione të tjera me nivel të lartë energjie për të rritur kohëzgjatjen e baterisë.</string>
+    <string name="battery_saver_description_with_learn_more">Regjimi STAMINA çaktivizohet ose kufizon aktivitetin në sfond, disa efekte vizuale dhe funksione të tjera me nivel të lartë energjie për të rritur kohëzgjatjen e baterisë. <annotation id="url">Mësoni më shumë</annotation></string>
+    <string name="battery_saver_notification_channel_name">Regjimi STAMINA</string>
+    <string name="battery_saver_off_notification_title">Regjimi STAMINA është çaktivizuar</string>
+</resources>

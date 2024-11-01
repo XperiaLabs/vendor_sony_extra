@@ -1,0 +1,2 @@
+allow platform_app hal_somc_superstamina_hwservice:hwservice_manager find;
+allow platform_app hal_somc_superstamina_default:binder call;

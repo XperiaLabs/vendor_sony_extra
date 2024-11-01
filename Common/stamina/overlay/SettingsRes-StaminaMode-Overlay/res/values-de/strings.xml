@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA-Modus</string>
+    <string name="battery_saver_auto_routine_summary">Der STAMINA-Modus wird automatisch aktiviert, wenn offenbar wird, dass der Akku wahrscheinlich nicht bis zum nächsten Aufladen hält (ermittelt anhand Ihres üblichen Aufladezeitpunkts)</string>
+    <string name="battery_saver_master_switch_title">STAMINA-Modus verwenden</string>
+    <string name="battery_saver_sticky_description_new">Der STAMINA-Modus wird deaktiviert, wenn der Akku %1$s erreicht</string>
+    <string name="battery_tip_dialog_summary_message">"Der Akkuverbrauch durch Apps ist normal. Falls der Akku durch Apps zu stark beansprucht wird, werden Ihnen auf dem Gerät mögliche Maßnahmen vorgeschlagen.
+
+Bei niedrigem Akkustand können Sie jederzeit den STAMINA-Modus aktivieren."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA-Modus aktiviert</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA-Modus aktivieren</string>
+    <string name="battery_tip_low_battery_summary">STAMINA-Modus aktivieren, um Akkulaufzeit zu erhöhen</string>
+    <string name="condition_battery_title">STAMINA-Modus aktiviert</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Wegen STAMINA-Modus vorübergehend aktiviert</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">An/Wegen STAMINA-Modus vorübergehend deaktiviert</string>
+    <string name="keywords_battery_saver_schedule">Routine, planen, STAMINA-Modus, Strom sparen, Akku, automatisch, Prozent</string>
+    <string name="keywords_battery_saver_sticky">STAMINA-Modus, langlebig, lange haltend, Strom sparen, Akku</string>
+</resources>

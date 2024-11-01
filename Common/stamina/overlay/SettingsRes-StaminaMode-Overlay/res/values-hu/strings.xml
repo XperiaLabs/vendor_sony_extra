@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA üzemmód</string>
+    <string name="battery_saver_auto_routine_summary">A STAMINA üzemmód bekapcsol, ha az akkumulátor lemerül a töltés várható időpontja előtt</string>
+    <string name="battery_saver_master_switch_title">STAMINA üzemmód haszn.</string>
+    <string name="battery_saver_sticky_description_new">A STAMINA üzemmód %1$s-os töltöttségi szint elérésekor kikapcsol</string>
+    <string name="battery_tip_dialog_summary_message">"Alkalmazásai akkumulátorhasználata nem tér el az átlagostól. Ha az alkalmazások túlzottan igénybe veszik az akkumulátort, készüléke javaslatot ad a lehetséges intézkedésekre.
+
+Ha az akkumulátor kezd lemerülni, bármikor bekapcsolhatja a STAMINA üzemmódot."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA üzemmód bekapcsolva</string>
+    <string name="battery_tip_early_heads_up_title">A STAMINA üzemmód bekapcsolása</string>
+    <string name="battery_tip_low_battery_summary">Kapcsolja be a STAMINA üzemmódot az akkumulátor üzemidejének növelése érdekében</string>
+    <string name="condition_battery_title">STAMINA üzemmód bekapcsolva</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Átmenetileg bekapcsolva a STAMINA üzemmód miatt</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Be/Átmenetileg kikapcsolva a STAMINA üzemmód miatt</string>
+    <string name="keywords_battery_saver_schedule">rutin, ütemezés, stamina üzemmód, energiatakarékosság, akkumulátor, automatikus, százalék</string>
+    <string name="keywords_battery_saver_sticky">stamina üzemmód, tartós, kitart, energiatakarékos mód, akkumulátor</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Λειτουργία STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Η λειτουργία STAMINA ενεργοποιείται όταν υπάρχει σημαντική πιθανότητα εξάντλησης της μπαταρίας σας πριν την επόμενη τυπική φόρτιση</string>
+    <string name="battery_saver_master_switch_title">Χρήση λειτουργ. STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Η λειτουργία STAMINA απενεργοποιείται όταν η στάθμη της μπαταρίας φτάσει το %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Οι εφαρμογές σας χρησιμοποιούν κανονική ποσότητα μπαταρίας. Εάν οι εφαρμογές χρησιμοποιούν πάρα πολλή μπαταρία, η συσκευή σας θα προτείνει ενέργειες που μπορείτε να εκτελέσετε.
+
+Μπορείτε να ενεργοποιήσετε τη λειτουργία STAMINA, εάν εξαντλείται η μπαταρία σας."</string>
+    <string name="battery_tip_early_heads_up_done_title">Η λειτουργία STAMINA είναι ενεργή</string>
+    <string name="battery_tip_early_heads_up_title">Ενεργοποίηση λειτουργίας STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Ενεργοποιήστε τη λειτουργία STAMINA για να επεκτείνετε τη διάρκεια ζωής της μπαταρίας</string>
+    <string name="condition_battery_title">Η λειτουργία STAMINA είναι ενεργή</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Ενεργοποιήθηκε προσωρινά λόγω της λειτουργίας STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Ενεργό / Απενεργ. προσωρινά λόγω της λειτουργίας STAMINA</string>
+    <string name="keywords_battery_saver_schedule">τακτικό, χρονοδιάγραμμα, λειτουργία stamina, εξοικονόμηση ενέργειας, μπαταρία, αυτόματα, ποσοστό</string>
+    <string name="keywords_battery_saver_sticky">λειτουργία stamina, μακροχρόνιο, επίμονο, εξοικονόμηση ενέργειας, μπαταρία</string>
+</resources>

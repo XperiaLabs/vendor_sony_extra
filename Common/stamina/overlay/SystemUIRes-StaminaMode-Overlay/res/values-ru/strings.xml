@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Коснитесь, чтобы запланир. режим STAMINA</string>
+    <string name="battery_detail_switch_title">Режим STAMINA</string>
+    <string name="battery_low_description">Уровень заряда батареи: %s. В режиме STAMINA включается тёмная тема, ограничиваются фоновые процессы и приостанавливается показ уведомлений.</string>
+    <string name="battery_low_intro">В режиме STAMINA включается тёмная тема, ограничиваются фоновые процессы и приостанавливается показ уведомлений.</string>
+    <string name="battery_low_title">Включить режим STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Включить режим STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Сведения о режиме STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Режим STAMINA</string>
+</resources>

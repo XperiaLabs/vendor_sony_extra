@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA režim</string>
+    <string name="battery_saver_auto_routine_summary">STAMINA režim se uključuje ako će baterija isteći pre sledećeg predviđenog punjenja</string>
+    <string name="battery_saver_master_switch_title">Koristi STAMINA režim</string>
+    <string name="battery_tip_dialog_summary_message">"Aplikacije koriste uobičajenu količinu baterije. Ako aplikacije koriste previše baterije, telefon će vam predložiti radnje koje možete da preduzmete.
+
+Možete da uključite STAMINA režim ako će se baterija uskoro isprazniti."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA režim je uključen</string>
+    <string name="battery_tip_early_heads_up_title">Uključi STAMINA režim</string>
+    <string name="battery_tip_low_battery_summary">STAMINA režim je aktiviran radi produženja trajanja baterije</string>
+    <string name="condition_battery_title">STAMINA režim je uključen</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Privremeno uključeno zbog STAMINA režima</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Uključeno / Privremeno onemogućeno zbog STAMINA režima</string>
+    <string name="keywords_battery_saver_schedule">rutina, raspored, stamina režim, ušteda energije, baterija, automatski, procenat</string>
+    <string name="keywords_battery_saver_sticky">stamina režim, lepljivo, trajati, ušteda energije, baterija</string>
+</resources>

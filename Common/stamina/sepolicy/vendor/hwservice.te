@@ -1,0 +1,2 @@
+# Stamina
+type hal_somc_superstamina_hwservice, hwservice_manager_type;

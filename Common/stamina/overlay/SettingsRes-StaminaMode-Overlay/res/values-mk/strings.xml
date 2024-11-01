@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA-режим</string>
+    <string name="battery_saver_auto_routine_summary">STAMINA-режимот се вклучува ако е веројатно дека батеријата ќе се испразни пред следното вообичаено време на полнење</string>
+    <string name="battery_saver_master_switch_title">Користи STAMINA-режим</string>
+    <string name="battery_tip_dialog_summary_message">"Вашите апликации користат нормално количество батерија. Ако апликациите трошат премногу батерија, телефонот ќе предложи дејства што може да ги преземете.
+
+Секогаш може да го активирате STAMINA-режимот ако батеријата ви е при крај."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA-режимот е вклучен</string>
+    <string name="battery_tip_early_heads_up_title">Вклучете STAMINA-режим</string>
+    <string name="battery_tip_low_battery_summary">Вклучете го STAMINA-режимот за да се продолжи траењето на батеријата</string>
+    <string name="condition_battery_title">STAMINA-режимот е вклучен</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Привремено вклучена поради STAMINA-режимот</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Вклучено/привремено оневозможена поради STAMINA-режимот</string>
+    <string name="keywords_battery_saver_schedule">рутина, распоред, stamina-режим, штедач на батерија, батерија, автоматски, процент</string>
+    <string name="keywords_battery_saver_sticky">stamina-режим, трајно, постојано, штедење батерија, батерија</string>
+</resources>

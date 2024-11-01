@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">बॅटरीचे आयुष्य वाढविण्यासाठी STAMINA मोड बॅकग्राउंड वापर, काही दृश्य प्रभाव आणि इतर उच्च कार्यक्षमतेची वैशिष्ट्ये बंद किंवा निर्बंधित करतो.</string>
+    <string name="battery_saver_description_with_learn_more">बॅटरीचे आयुष्य वाढविण्यासाठी STAMINA मोड बॅकग्राउंड वापर, काही दृश्य प्रभाव आणि इतर उच्च कार्यक्षमतेची वैशिष्ट्ये बंद किंवा निर्बंधित करतो.<annotation id="url">अधिक जाणून घ्या</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA मोड</string>
+    <string name="battery_saver_off_notification_title">STAMINA मोड सुरू केला</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">حالت STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">اگر احتمال داشته باشد که شارژ باتری قبل از زمان متداول برای شارژ بعدی تمام شود، حالت STAMINA روشن می‌شود</string>
+    <string name="battery_saver_master_switch_title">استفاده از حالت STAMINA</string>
+    <string name="battery_tip_dialog_summary_message">"میزان مصرف باتری توسط برنامه‌هایتان عادی است. اگر مصرف باتری برنامه‌ها خیلی زیاد باشد، تلفنتان اقداماتی را که می‌توانید انجام دهید، پیشنهاد می‌کند.
+
+اگر شارژ باتری رو به اتمام است، همیشه می‌توانید حالت STAMINA را روشن کنید."</string>
+    <string name="battery_tip_early_heads_up_done_title">حالت STAMINA روشن است</string>
+    <string name="battery_tip_early_heads_up_title">حالت STAMINA را روشن کنید</string>
+    <string name="battery_tip_low_battery_summary">برای افزایش عمر باتری، «حالت STAMINA» را روشن کنید</string>
+    <string name="condition_battery_title">حالت STAMINA روشن است</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">به‌دلیل روشن بودن حالت STAMINA، این تنظیم موقتاً فعال شد</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">روشن / به‌دلیل روشن بودن حالت STAMINA، این تنظیم موقتاً غیرفعال شد</string>
+    <string name="keywords_battery_saver_schedule">روزمره، برنامه زمانی، حالت stamina، ذخیره‌ساز نیرو، باتری، خودکار، درصد</string>
+    <string name="keywords_battery_saver_sticky">حالت stamina، ماندگار، دوام آوردن، ذخیره‌کننده نیرو، باتری</string>
+</resources>

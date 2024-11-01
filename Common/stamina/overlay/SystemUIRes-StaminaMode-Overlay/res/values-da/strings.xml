@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Tap for at planlægge STAMINA-tilstand</string>
+    <string name="battery_detail_switch_title">STAMINA-tilstand</string>
+    <string name="battery_low_description">Du har %s batteri tilbage. STAMINA-tilstanden aktiverer Mørkt tema, begrænser aktivitet i baggrunden og udskyder notifikationer.</string>
+    <string name="battery_low_intro">STAMINA-tilstanden aktiverer Mørkt tema, begrænser aktivitet i baggrunden og udskyder notifikationer.</string>
+    <string name="battery_low_title">Vil du aktivere STAMINA-tilstand?</string>
+    <string name="battery_saver_confirmation_title">Vil du slå STAMINA-tilstand til?</string>
+    <string name="battery_saver_confirmation_title_generic">Om STAMINA-tilstand</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA-tilstand</string>
+</resources>

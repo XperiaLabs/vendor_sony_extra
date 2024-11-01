@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA মোড</string>
+    <string name="battery_saver_auto_routine_summary">আপনার পরবর্তী টিপিক্যাল চার্জের আগে আপনার ব্যাটারির চার্জ চলে গেলে STAMINA মোড চালু হয়ে যায়</string>
+    <string name="battery_saver_master_switch_title">STAMINA মোড ব্যবহার করুন</string>
+    <string name="battery_tip_dialog_summary_message">"আপনার অ্যাপগুলো একটি স্বাভাবিক পরিমাণ ব্যাটারি ব্যবহার করছে। যদি অ্যাপগুলো খুব বেশি পরিমাণ ব্যাটারি ব্যবহার করে তাহলে আপনার ফোন আপনাকে পদক্ষেপগুলি গ্রহণ করার জন্য সুপারিশ করবে। 
+
+আপনার ব্যাটারিতে যদি কম সময় বেঁচে থাকে তাহলে আপনি সবসময় STAMINA মোড চালু করতে পারেন।"</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA মোড চালু রয়েছে</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA মোড চালু করুন</string>
+    <string name="battery_tip_low_battery_summary">ব্যাটারির আয়ু বাড়াতে STAMINA মোড সক্রিয় করা হয়েছে</string>
+    <string name="condition_battery_title">STAMINA মোড চালু রয়েছে</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA মোডের জন্য সাময়িকভাবে চালু করা হয়েছে</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">চালু/ STAMINA মোডের জন্য সাময়িকভাবে নিষ্ক্রিয় করা হয়েছে</string>
+    <string name="keywords_battery_saver_schedule">রুটিন, সময়সূচি, স্ট্যামিনা মোড, পাওয়ার সেভার, ব্যাটারি, স্বয়ংক্রিয়, শতকরা হার</string>
+    <string name="keywords_battery_saver_sticky">stamina মোড, অনড় অবস্থান, অটল থাকা, পাওয়ার সেভার, ব্যাটারি</string>
+</resources>

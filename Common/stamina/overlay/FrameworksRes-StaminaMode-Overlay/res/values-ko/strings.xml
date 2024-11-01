@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA 모드에서는 배터리 수명을 늘리기 위해 백그라운드 활동, 일부 시각 효과 및 배터리 소모가 큰 기능을 끄거나 제한합니다.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA 모드에서는 배터리 수명을 늘리기 위해 백그라운드 활동, 일부 시각 효과 및 배터리 소모가 큰 기능을 끄거나 제한합니다. <annotation id="url">자세히</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA 모드</string>
+    <string name="battery_saver_off_notification_title">STAMINA 모드가 꺼졌습니다.</string>
+    <string name="dynamic_mode_notification_title">STAMINA 모드 켜짐</string>
+</resources>

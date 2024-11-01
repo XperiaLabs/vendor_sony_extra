@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Koputage STAMINA-re​žiimi ajastamiseks</string>
+    <string name="battery_detail_switch_title">STAMINA-režiim</string>
+    <string name="battery_low_description">Teil on jäänud %s akutoidet. STAMINA-režiim lülitab sisse Tumeda teema, piirab taustategevusi ja viivitab märguannete saatmisega.</string>
+    <string name="battery_low_intro">STAMINA-režiim lülitab sisse Tumeda teema, piirab taustategevusi ja viivitab märguannete saatmisega.</string>
+    <string name="battery_low_title">Kas lülitada STAMINA-režiim sisse?</string>
+    <string name="battery_saver_confirmation_title">Kas lülitada STAMINA-režiim sisse?</string>
+    <string name="battery_saver_confirmation_title_generic">Teave STAMINA-režiimi kohta</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA-režiim</string>
+</resources>

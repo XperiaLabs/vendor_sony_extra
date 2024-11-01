@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Modalità STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">La modalità STAMINA viene attivata se è probabile che la batteria si scarichi prima della successiva ricarica prevista</string>
+    <string name="battery_saver_master_switch_title">Utilizza modalità STAMINA</string>
+    <string name="battery_saver_sticky_description_new">La modalità STAMINA si disattiva quando la batteria raggiunge %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Le tue app stanno utilizzando un livello di batteria normale. Se le app consumano troppa batteria, il tuo dispositivo suggerirà le azioni che puoi eseguire.
+
+Se la carica della batteria è scarsa, puoi sempre attivare la modalità STAMINA."</string>
+    <string name="battery_tip_early_heads_up_done_title">Modalità STAMINA attiva</string>
+    <string name="battery_tip_early_heads_up_title">Attiva modalità STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Attiva Modalità STAMINA per prolungare la durata della batteria</string>
+    <string name="condition_battery_title">Modalità STAMINA attiva</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Disattivata temporaneamente a causa della modalità STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">On/Opzione disattivata temporaneamente per la modalità STAMINA</string>
+    <string name="keywords_battery_saver_schedule">routine, programma, modalità stamina, risparmio energetico, batteria, automatico, percentuale</string>
+    <string name="keywords_battery_saver_sticky">modalità stamina, duratura, perdurare, risparmio energetico, batteria</string>
+</resources>

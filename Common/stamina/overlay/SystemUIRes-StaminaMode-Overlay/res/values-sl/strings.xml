@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Tapnite za nastavitev razporeda načina STAMINA</string>
+    <string name="battery_detail_switch_title">Način STAMINA</string>
+    <string name="battery_low_description">Preostala napolnjenost baterije: %s. Način STAMINA vklopi temno temo, omeji dejavnost v ozadju in prikazuje obvestila z zakasnitvijo.</string>
+    <string name="battery_low_intro">Način STAMINA vklopi temno temo, omeji dejavnost v ozadju in prikazuje obvestila z zakasnitvijo.</string>
+    <string name="battery_low_title">Želite vklopiti način STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Ali želite vklopiti način STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">O načinu STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Način STAMINA</string>
+</resources>

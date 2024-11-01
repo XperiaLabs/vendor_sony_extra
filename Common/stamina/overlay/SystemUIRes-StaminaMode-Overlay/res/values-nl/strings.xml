@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Tik om STAMINA-modus te plannen</string>
+    <string name="battery_detail_switch_title">STAMINA-modus</string>
+    <string name="battery_low_description">Je hebt nog %s batterij. STAMINA-modus zet Thema Donker aan, beperkt activiteit op de achtergrond en vertraagt meldingen.</string>
+    <string name="battery_low_intro">STAMINA-modus zet Thema Donker aan, beperkt activiteit op de achtergrond en vertraagt meldingen.</string>
+    <string name="battery_low_title">STAMINA-modus aanzetten?</string>
+    <string name="battery_saver_confirmation_title">STAMINA-modus inschakelen?</string>
+    <string name="battery_saver_confirmation_title_generic">Over STAMINA-modus</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA-modus</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA функциясы батарея қуатын үнемдеу үшін фондық әрекеттерді, кейбір көрнекі әсерлерді және басқа да қуатты көп пайдаланатын мүмкіндіктерді өшіреді немесе шектейді.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA режимі батарея қуатын үнемдеу үшін фондық әрекеттерді, кейбір көрнекі әсерлерді және басқа да қуатты көп пайдаланатын мүмкіндіктерді өшіреді немесе шектейді. <annotation id="url">Толығырақ</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA режимі</string>
+    <string name="battery_saver_off_notification_title">STAMINA режимі өшірілді</string>
+    <string name="dynamic_mode_notification_title">STAMINA режимі қосулы</string>
+</resources>

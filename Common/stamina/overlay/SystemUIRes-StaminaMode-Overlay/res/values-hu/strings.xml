@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">A STAMINA üzemmód ütemezése koppintással</string>
+    <string name="battery_detail_switch_title">STAMINA üzemmód</string>
+    <string name="battery_low_description">Az akkumulátor töltöttségi szintje %s. A STAMINA üzemmód bekapcsolja a Sötét témát, korlátozza a háttérbeli tevékenységeket, és késlelteti az értesítéseket.</string>
+    <string name="battery_low_intro">A STAMINA üzemmód bekapcsolja a Sötét témát, korlátozza a háttérbeli tevékenységeket, és késlelteti az értesítéseket.</string>
+    <string name="battery_low_title">Bekapcsolja a STAMINA üzemmódot?</string>
+    <string name="battery_saver_confirmation_title">Bekapcsolja a STAMINA üzemmódot?</string>
+    <string name="battery_saver_confirmation_title_generic">A STAMINA üzemmód</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA üzemmód</string>
+</resources>

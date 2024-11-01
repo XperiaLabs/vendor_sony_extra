@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Modo STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">O modo STAMINA será ativado se for provável que sua bateria acabe antes do próximo carregamento habitual</string>
+    <string name="battery_saver_master_switch_title">Usar o modo STAMINA</string>
+    <string name="battery_saver_sticky_description_new">A Economia de bateria é desativada quando a carga da bateria chega a %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Seus apps estão consumindo uma quantidade normal de bateria. Se eles consumirem muita bateria, serão sugeridas ações no dispositivo.
+
+Se a bateria estiver acabando, você poderá ativar o modo STAMINA."</string>
+    <string name="battery_tip_early_heads_up_done_title">Modo STAMINA ativado</string>
+    <string name="battery_tip_early_heads_up_title">Ativar modo STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Ativar o modo STAMINA para prolongar a duração da bateria</string>
+    <string name="condition_battery_title">Modo STAMINA ativado</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Temporariamente ativado devido ao modo STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Ativado / Temporariamente desativado devido ao modo STAMINA</string>
+    <string name="keywords_battery_saver_schedule">rotina, agenda, modo stamina, economizador de bateria, bateria, automático, porcentagem</string>
+    <string name="keywords_battery_saver_sticky">modo stamina, durável, persistente, economia de energia, bateria</string>
+</resources>

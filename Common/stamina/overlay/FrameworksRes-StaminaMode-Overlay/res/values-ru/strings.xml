@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">В режиме STAMINA ограничиваются или приостанавливаются фоновые процессы, визуальные эффекты и другие функции, которые быстро расходуют заряд батареи.</string>
+    <string name="battery_saver_description_with_learn_more">В режиме STAMINA ограничиваются или приостанавливаются фоновые процессы, визуальные эффекты и другие функции, которые быстро расходуют заряд батареи. <annotation id="url">Подробнее</annotation></string>
+    <string name="battery_saver_notification_channel_name">Режим STAMINA</string>
+    <string name="battery_saver_off_notification_title">Режим STAMINA выключен</string>
+    <string name="dynamic_mode_notification_title">Режим STAMINA включен</string>
+</resources>

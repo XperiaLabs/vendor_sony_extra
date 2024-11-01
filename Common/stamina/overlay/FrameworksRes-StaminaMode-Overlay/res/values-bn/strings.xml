@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA মোড বন্ধ হয়েছে অথবা পটভূমির কার্যকলাপ সীমিত করেছে, কিছু ভিস্যুয়াল এফেক্ট ও অন্য উচ্চ-ক্ষমতা সম্পন্ন বৈশিষ্ট্য ব্যাটারির আয়ু বাড়ায়।</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA মোড বন্ধ হয়েছে অথবা পটভূমির কার্যকলাপ সীমিত করেছে, কিছু ভিস্যুয়াল এফেক্ট ও অন্য উচ্চ-ক্ষমতা সম্পন্ন বৈশিষ্ট্য ব্যাটারির আয়ু বাড়ায়। <annotation id="url">আরও জানুন</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA মোড</string>
+    <string name="battery_saver_off_notification_title">STAMINA মোড বন্ধ আছে</string>
+</resources>

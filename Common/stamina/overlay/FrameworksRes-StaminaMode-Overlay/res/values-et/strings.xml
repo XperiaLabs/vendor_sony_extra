@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Aku tööea pikendamiseks lülitab STAMINA-režiim taustategevused, mõningad visuaalsed efektid ja muud akut koormavad funktsioonid välja või piirab neid.</string>
+    <string name="battery_saver_description_with_learn_more">Aku tööea pikendamiseks lülitab STAMINA-režiim taustategevused, mõningad visuaalsed efektid ja muud akut koormavad funktsioonid välja või piirab neid. <annotation id="url">Lisateave</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA-režiim</string>
+    <string name="battery_saver_off_notification_title">STAMINA-režiim on välja lülitatud</string>
+    <string name="dynamic_mode_notification_title">STAMINA-režiim on sisse lülitatud</string>
+</resources>

@@ -57,7 +57,7 @@ android_app_import {
 	name: "SomcColorGamut",
 	owner: "sony",
 	apk: "ColorGamut/ColorGamut.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},

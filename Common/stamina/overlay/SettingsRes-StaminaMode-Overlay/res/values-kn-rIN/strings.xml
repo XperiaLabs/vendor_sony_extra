@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA ಮೋಡ್</string>
+    <string name="battery_saver_auto_routine_summary">ನಿಮ್ಮ ಮುಂದಿನ ಸಾಮಾನ್ಯ ಚಾರ್ಜ್‌ಗೂ ಮುನ್ನವೇ ನಿಮ್ಮ ಬ್ಯಾಟರಿ ಖಾಲಿಯಾಗುವ ಸಾಧ್ಯತೆ ಇದ್ದರೆ STAMINA ಮೋಡ್ ಆನ್ ಮಾಡುತ್ತದೆ</string>
+    <string name="battery_saver_master_switch_title">STAMINA ಮೋಡ್ ಬಳಸಿ</string>
+    <string name="battery_tip_dialog_summary_message">"ನಿಮ್ಮ ಆಪ್‌ಗಳು ಸಾಮಾನ್ಯ ಪ್ರಮಾಣದ ಬ್ಯಾಟರಿ ಬಳಸುತ್ತಿವೆ. ಆಪ್‌ಗಳು ತೀರಾ ಹೆಚ್ಚು ಬ್ಯಾಟರಿ ಬಳಸಿದರೆ, ನೀವು ತೆಗೆದುಕೊಳ್ಳಬಹುದಾದ ಕ್ರಮಗಳ ಸಲಹೆಯನ್ನು ನಿಮ್ಮ ಫೋನ್ ನೀಡುತ್ತದೆ.
+
+ಬ್ಯಾಟರಿ ಮಟ್ಟ ಕಡಿಮೆ ಇದ್ದಲ್ಲಿ ನೀವು ಸದಾ STAMINA ಮೋಡ್ ಆನ್ ಮಾಡಬಹುದು."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA ಮೋಡ್ ಆನ್ ಆಗಿದೆ</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA ಮೋಡ್ ಆನ್ ಮಾಡಿ</string>
+    <string name="battery_tip_low_battery_summary">ಬ್ಯಾಟರಿ ಬಾಳಿಕೆ ವಿಸ್ತರಿಸಲು STAMINA ಮೋಡ್ ಆನ್ ಮಾಡಿ</string>
+    <string name="condition_battery_title">STAMINA ಮೋಡ್ ಆನ್ ಆಗಿದೆ</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA ಮೋಡ್ ಕಾರಣದಿಂದ ತಾತ್ಕಾಲಿಕವಾಗಿ ಆನ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">STAMINA ಮೋಡ್ ಕಾರಣದಿಂದ ಆನ್ ಮಾಡಲಾಗಿದೆ / ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="keywords_battery_saver_schedule">ನಿಯಮಿತ, ಷೆಡ್ಯೂಲ್, stamina ಮೋಡ್, ಪವರ್ ಸೇವರ್, ಬ್ಯಾಟರಿ, ಸ್ವಯಂಚಾಲಿತ, ಶೇಕಡಾ</string>
+    <string name="keywords_battery_saver_sticky">ಸ್ಟ್ಯಾಮಿನಾ ಮೋಡ್, ನಿರಂತರ, ದೃಢ, ಪವರ್ ಸೇವರ್, ಬ್ಯಾಟರಿ</string>
+</resources>

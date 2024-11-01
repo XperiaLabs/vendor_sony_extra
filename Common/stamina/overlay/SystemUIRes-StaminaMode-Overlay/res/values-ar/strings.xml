@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">انقر نقرًا سريعًا لجدولة وضع STAMINA</string>
+    <string name="battery_detail_switch_title">وضع STAMINA</string>
+    <string name="battery_low_description">يتبقى لديك %s من شحن البطارية. يؤدي استخدام وضع \"STAMINA\" إلى تفعيل وضع \"المظهر الداكن\" وتقييد الأنشطة في الخلفية وتأخير الإشعارات.</string>
+    <string name="battery_low_intro">يؤدي استخدام وضع \"STAMINA\" إلى تفعيل وضع \"المظهر الداكن\" وتقييد الأنشطة في الخلفية وتأخير الإشعارات.</string>
+    <string name="battery_low_title">هل تريد تفعيل وضع \"STAMINA\"؟</string>
+    <string name="battery_saver_confirmation_title">تشغيل وضع STAMINA؟</string>
+    <string name="battery_saver_confirmation_title_generic">حول وضع STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">وضع STAMINA</string>
+</resources>

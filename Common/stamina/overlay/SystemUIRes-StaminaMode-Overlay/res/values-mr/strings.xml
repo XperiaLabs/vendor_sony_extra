@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA मोड नियोजित करण्यासाठी टॅप करा</string>
+    <string name="battery_detail_switch_title">STAMINA मोड</string>
+    <string name="battery_low_description">तुमच्याकडे %s बॅटरी शिल्लक आहे. STAMINA मोड गडद थीम सुरू करते, बॅकग्राउंड ॲक्टिव्हिटी मर्यादित करते, यामुळे सूचना विलंबाने मिळतात.</string>
+    <string name="battery_low_intro">STAMINA मोड गडद थीम सुरू करते, बॅकग्राउंड ॲक्टिव्हिटी मर्यादित करते, यामुळे सूचना विलंबाने मिळतात.</string>
+    <string name="battery_low_title">STAMINA मोड सुरू करायचे आहे का?</string>
+    <string name="battery_saver_confirmation_title">STAMINA मोड चालू करायचा?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA मोड विषयी</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA मोड</string>
+</resources>

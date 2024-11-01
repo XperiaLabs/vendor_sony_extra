@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">[ŠŢÅḾÎÑÅ ḿöðé one two]</string>
+    <string name="battery_saver_auto_routine_summary">[ŠŢÅḾÎÑÅ ḿöðé ţûŕñš öñ îƒ ýöûŕ ɓåţţéŕý îš ļîķéļý ţö ŕûñ öûţ ɓéƒöŕé ýöûŕ ñéхţ ţýþîçåļ çĥåŕĝé one two three four five six seven eight nine ten]</string>
+    <string name="battery_saver_master_switch_title">[Ûšé ŠŢÅḾÎÑÅ ḿöðé one two three]</string>
+    <string name="battery_saver_sticky_description_new">[ŠŢÅḾÎÑÅ ḿöðé ţûŕñš öƒƒ ŵĥéñ ɓåţţéŕý ŕéåçĥéš %1$s one two three four five]</string>
+    <string name="battery_tip_dialog_summary_message">"[Ýöûŕ åþþš åŕé ûšîñĝ å ñöŕḿåļ åḿöûñţ öƒ ɓåţţéŕý. Îƒ åþþš ûšé ţöö ḿûçĥ ɓåţţéŕý, ýöûŕ ðéVîçé ŵîļļ šûĝĝéšţ åçţîöñš ýöû çåñ ţåķé.
+
+Ýöû çåñ åļŵåýš ţûŕñ öñ ŠŢÅḾÎÑÅ ḿöðé îƒ ýöû'ŕé ŕûññîñĝ ļöŵ öñ ɓåţţéŕý. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen]"</string>
+    <string name="battery_tip_early_heads_up_done_title">[ŠŢÅḾÎÑÅ ḿöðé îš öñ one two three]</string>
+    <string name="battery_tip_early_heads_up_title">[Ţûŕñ öñ ŠŢÅḾÎÑÅ ḿöðé one two three]</string>
+    <string name="battery_tip_low_battery_summary">[Ţûŕñ öñ ŠŢÅḾÎÑÅ ḿöðé ţö éхţéñð ɓåţţéŕý ļîƒé one two three four five]</string>
+    <string name="condition_battery_title">[ŠŢÅḾÎÑÅ ḿöðé îš öñ one two three]</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">[Ţéḿþöŕåŕîļý ţûŕñéð öñ ðûé ţö ŠŢÅḾÎÑÅ ḿöðé one two three four five]</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">[Öñ / Ţéḿþöŕåŕîļý ðîšåɓļéð ðûé ţö ŠŢÅḾÎÑÅ ḿöðé one two three four five]</string>
+    <string name="keywords_battery_saver_schedule">[ŕöûţîñé, šçĥéðûļé, šţåḿîñå ḿöðé, þöŵéŕ šåVéŕ, ɓåţţéŕý, åûţöḿåţîç, þéŕçéñţ one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="keywords_battery_saver_sticky">[šţåḿîñå ḿöðé, šţîçķý, þéŕšîšţ, þöŵéŕ šåVéŕ, ɓåţţéŕý one two three four five six seven eight nine ten eleven]</string>
+</resources>

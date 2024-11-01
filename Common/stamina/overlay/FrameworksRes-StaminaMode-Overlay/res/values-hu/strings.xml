@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">A STAMINA üzemmód az akkumulátor üzemidejének növelése érdekében kikapcsolja vagy korlátozza a háttérben futó tevékenységeket, egyes vizuális effekteket és a sok energiát igénylő funkciókat</string>
+    <string name="battery_saver_description_with_learn_more">A STAMINA üzemmód az akkumulátor üzemidejének növelése érdekében kikapcsolja vagy korlátozza a háttérben futó tevékenységeket, egyes vizuális effekteket és a sok energiát igénylő funkciókat. <annotation id="url">További információ.</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA üzemmód</string>
+    <string name="battery_saver_off_notification_title">STAMINA üzemmód kikapcsolva</string>
+    <string name="dynamic_mode_notification_title">A STAMINA üzemmód be van kapcsolva</string>
+</resources>

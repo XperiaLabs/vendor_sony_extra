@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Ajasta STAMINA-tila napauttamalla</string>
+    <string name="battery_detail_switch_title">STAMINA-tila</string>
+    <string name="battery_low_description">Akkua jäljellä %s. STAMINA-tila laittaa tumman teeman päälle, rajoittaa taustatoimintoja ja viivästyttää ilmoituksia.</string>
+    <string name="battery_low_intro">STAMINA-tila laittaa tumman teeman päälle, rajoittaa taustatoimintoja ja viivästyttää ilmoituksia.</string>
+    <string name="battery_low_title">Laitetaanko STAMINA-tila päälle?</string>
+    <string name="battery_saver_confirmation_title">Otetaanko STAMINA-tila käyttöön?</string>
+    <string name="battery_saver_confirmation_title_generic">Tietoja STAMINA-tilasta</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA-tila</string>
+</resources>

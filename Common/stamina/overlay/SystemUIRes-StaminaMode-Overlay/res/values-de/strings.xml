@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Tippen, um STAMINA-Modus zu planen</string>
+    <string name="battery_detail_switch_title">STAMINA-Modus</string>
+    <string name="battery_low_description">Dein Akkustand beträgt %s. Im STAMINA-Modus wird das dunkle Design aktiviert und es werden Hintergrundaktivitäten eingeschränkt sowie Benachrichtigungen verzögert empfangen.</string>
+    <string name="battery_low_intro">Im STAMINA-Modus wird das dunkle Design aktiviert. Hintergrundaktivitäten werden eingeschränkt sowie Benachrichtigungen verzögert empfangen.</string>
+    <string name="battery_low_title">STAMINA-Modus aktivieren?</string>
+    <string name="battery_saver_confirmation_title">STAMINA-Modus aktivieren?</string>
+    <string name="battery_saver_confirmation_title_generic">Infos zum STAMINA-Modus</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA-Modus</string>
+</resources>

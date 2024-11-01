@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Toque para agendar o modo STAMINA</string>
+    <string name="battery_detail_switch_title">Modo STAMINA</string>
+    <string name="battery_low_description">Você tem %s de bateria. O modo STAMINA ativa o Tema escuro, restringe atividades em segundo plano e atrasa notificações.</string>
+    <string name="battery_low_intro">O modo STAMINA ativa o Tema escuro, restringe atividades em segundo plano e atrasa notificações.</string>
+    <string name="battery_low_title">Ativar o modo STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Ativar modo STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Sobre o modo STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Modo STAMINA</string>
+</resources>

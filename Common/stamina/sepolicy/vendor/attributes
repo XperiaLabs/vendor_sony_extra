@@ -1,0 +1,3 @@
+attribute hal_superstamina;
+attribute hal_superstamina_client;
+attribute hal_superstamina_server;

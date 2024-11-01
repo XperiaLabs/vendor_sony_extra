@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Tap to schedule STAMINA mode</string>
+    <string name="battery_detail_switch_title">STAMINA mode</string>
+    <string name="battery_low_description">You have %s battery left. STAMINA mode turns on Dark theme, restricts background activity, and delays notifications.</string>
+    <string name="battery_low_intro">STAMINA mode turns on Dark theme, restricts background activity, and delays notifications.</string>
+    <string name="battery_low_title">Turn on STAMINA mode?</string>
+    <string name="battery_saver_confirmation_title">Turn on STAMINA mode?</string>
+    <string name="battery_saver_confirmation_title_generic">About STAMINA mode</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA mode</string>
+</resources>

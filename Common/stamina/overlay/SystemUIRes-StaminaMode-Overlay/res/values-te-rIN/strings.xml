@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA విధానం షెడ్యూల్ చేయడానికి ట్యాప్ చేయండి</string>
+    <string name="battery_detail_switch_title">STAMINA విధానం</string>
+    <string name="battery_low_description">మీకు %s బ్యాటరీ మిగిలి ఉంది. STAMINA విధానం ముదురు రంగు రూపాన్ని ఆన్ చేసింది. బ్యాక్‌గ్రౌండ్ యాక్టివిటీని పరిమితం చేస్తుంది, అలాగే నోటిఫికేషన్‌లను ఆలస్యంగా పంపిస్తుంది.</string>
+    <string name="battery_low_intro">STAMINA విధానం ముదురు రంగు రూపాన్ని ఆన్ చేసింది. బ్యాక్‌గ్రౌండ్ యాక్టివిటీని పరిమితం చేస్తుంది, అలాగే నోటిఫికేషన్‌లను ఆలస్యంగా పంపిస్తుంది.</string>
+    <string name="battery_low_title">STAMINA విధానం ఆన్ చేయాలా?</string>
+    <string name="battery_saver_confirmation_title">STAMINA విధానం ఆన్ చేయాలా?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA విధానం గురించి</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA విధానం</string>
+</resources>

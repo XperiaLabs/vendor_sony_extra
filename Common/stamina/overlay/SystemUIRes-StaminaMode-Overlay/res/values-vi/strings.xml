@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Nhấn để lên lịch cho chế độ STAMINA</string>
+    <string name="battery_detail_switch_title">Chế độ STAMINA</string>
+    <string name="battery_low_description">Bạn còn %s pin. Chế độ STAMINA sẽ bật Giao diện tối, giới hạn hoạt động trong nền và trì hoãn thông báo.</string>
+    <string name="battery_low_intro">Chế độ STAMINA sẽ bật Giao diện tối, giới hạn hoạt động trong nền và trì hoãn thông báo.</string>
+    <string name="battery_low_title">Bật Chế độ STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Bật chế độ STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Giới thiệu về chế độ STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Chế độ STAMINA</string>
+</resources>

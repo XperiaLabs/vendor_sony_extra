@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Η λειτουργία STAMINA απενεργοποιεί ή περιορίζει τη δραστηριότητα παρασκηνίου, ορισμένα οπτικά εφέ και άλλες λειτουργίες υψηλής κατανάλωσης ενέργειας για την επέκταση της διάρκειας ζωής μπαταρίας.</string>
+    <string name="battery_saver_description_with_learn_more">Η λειτουργία STAMINA απενεργοποιεί ή περιορίζει τη δραστηριότητα παρασκηνίου, ορισμένα οπτικά εφέ και άλλες λειτουργίες υψηλής κατανάλωσης ενέργειας για την επέκταση της διάρκειας ζωής μπαταρίας. <annotation id="url">Μάθετε περισσότερα</annotation></string>
+    <string name="battery_saver_notification_channel_name">Λειτουργία STAMINA</string>
+    <string name="battery_saver_off_notification_title">Η λειτουργία STAMINA απενεργοποιήθηκε</string>
+    <string name="dynamic_mode_notification_title">Η λειτουργία STAMINA είναι ενεργή</string>
+</resources>

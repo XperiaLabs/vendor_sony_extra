@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA பயன்முறையைத் திட்டமிட, தட்டவும்</string>
+    <string name="battery_detail_switch_title">STAMINA பயன்முறை</string>
+    <string name="battery_low_description">%s பேட்டரி மீதமுள்ளது. STAMINA பயன்முறை டார்க் தீமை இயக்கும், அத்துடன் பின்னணிச் செயல்பாடுகளைக் கட்டுப்படுத்தி, அறிவிப்புகளைத் தாமதப்படுத்தும்.</string>
+    <string name="battery_low_intro">STAMINA பயன்முறை டார்க் தீமை இயக்கும், அத்துடன் பின்னணிச் செயல்பாடுகளைக் கட்டுப்படுத்தி, அறிவிப்புகளைத் தாமதப்படுத்தும்.</string>
+    <string name="battery_low_title">STAMINA பயன்முறையை இயக்கவா?</string>
+    <string name="battery_saver_confirmation_title">STAMINA பயன்முறையை இயக்கவா?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA பயன்முறையைப் பற்றி</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA பயன்முறை</string>
+</resources>

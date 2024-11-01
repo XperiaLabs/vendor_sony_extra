@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">タップしてSTAMINAモードのスケジュールを設定</string>
+    <string name="battery_detail_switch_title">STAMINAモード</string>
+    <string name="battery_low_description">バッテリー残量は %s です。STAMINAモードを ON にすると、ダークモードが ON になります。また、バックグラウンド アクティビティが制限され、通知が届くのが遅くなります。</string>
+    <string name="battery_low_intro">STAMINAモードを ON にすると、ダークモードが ON になります。また、バックグラウンド アクティビティが制限され、通知が届くのが遅くなります。</string>
+    <string name="battery_low_title">STAMINAモードを ON にしますか？</string>
+    <string name="battery_saver_confirmation_title">STAMINAモードをONにしますか?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINAモードについて</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINAモード</string>
+</resources>

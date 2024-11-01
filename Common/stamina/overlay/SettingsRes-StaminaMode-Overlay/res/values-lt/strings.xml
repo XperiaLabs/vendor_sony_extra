@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA režimas</string>
+    <string name="battery_saver_auto_routine_summary">Režimas STAMINA įjungiamas, jei numatoma, kad akumuliatorius išsikraus iki kito įprastai atliekamo įkrovimo</string>
+    <string name="battery_saver_master_switch_title">Naudoti režimą STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Režimas STAMINA išjungiamas, kai akumuliatorius pasiekia %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Programos naudoja įprastą akumuliatoriaus energijos kiekį. Jei programos naudos per daug akumuliatoriaus energijos, įrenginys pasiūlys veiksmų, kurių galima imtis.
+
+Jei senka akumuliatoriaus energija, visada galite įjungti režimą STAMINA."</string>
+    <string name="battery_tip_early_heads_up_done_title">Režimas STAMINA įjungtas</string>
+    <string name="battery_tip_early_heads_up_title">Įjungti režimą STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Aktyvuokite režimą STAMINA, kad akumuliatorius veiktų ilgiau</string>
+    <string name="condition_battery_title">Režimas STAMINA įjungtas</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Laikinai įjungta dėl režimo STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Įjungta / laikinai pasyvinta dėl režimo STAMINA</string>
+    <string name="keywords_battery_saver_schedule">paprogramė, tvarkaraštis, režimas stamina, akumuliatoriaus taupymo priemonė, akumuliatorius, automatinis, procentas</string>
+    <string name="keywords_battery_saver_sticky">režimas stamina, klijuojamas, išliekantis, energijos taupymas, akumuliatorius</string>
+</resources>

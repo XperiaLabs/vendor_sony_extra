@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Ťuknite sem a naplánujte režim STAMINA</string>
+    <string name="battery_detail_switch_title">Režim STAMINA</string>
+    <string name="battery_low_description">Zostáva vám %s batérie. Režim STAMINA zapne tmavý motív, obmedzí aktivity na pozadí a odloží upozornenia.</string>
+    <string name="battery_low_intro">Režim STAMINA zapne tmavý motív, obmedzí aktivity na pozadí a odloží upozornenia.</string>
+    <string name="battery_low_title">Chcete zapnúť režim STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Zapnúť režim STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">O režime STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Režim STAMINA</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">省电模式会关闭或限制后台活动、部分视觉效果和其他耗电高的功能，以延长电池续航时间。</string>
+    <string name="battery_saver_description_with_learn_more">省电模式会关闭或限制后台活动、部分视觉效果和其他耗电高的功能，以延长电池续航时间。<annotation id="url">了解更多</annotation></string>
+    <string name="battery_saver_notification_channel_name">省电模式</string>
+    <string name="battery_saver_off_notification_title">省电模式已关闭</string>
+    <string name="dynamic_mode_notification_title">省电模式已开启</string>
+</resources>

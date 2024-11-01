@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Pulse para programar el modo STAMINA</string>
+    <string name="battery_detail_switch_title">Modo STAMINA</string>
+    <string name="battery_low_description">Te queda un %s de batería. El modo STAMINA activa el tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.</string>
+    <string name="battery_low_intro">El modo STAMINA activa el tema oscuro, restringe la actividad en segundo plano y retrasa las notificaciones.</string>
+    <string name="battery_low_title">¿Activar el modo STAMINA?</string>
+    <string name="battery_saver_confirmation_title">¿Activar el modo STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Acerca del modo STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Modo STAMINA</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Bakstelėkite norėdami suplanuoti režimą STAMINA</string>
+    <string name="battery_detail_switch_title">Režimą STAMINA</string>
+    <string name="battery_low_description">Liko %s akumuliatoriaus energijos. Kai naudojamas režimas STAMINA, įjungiama Tamsioji tema, apribojama veikla fone ir atidedami pranešimai.</string>
+    <string name="battery_low_intro">Kai naudojamas režimas STAMINA, įjungiama Tamsioji tema, apribojama veikla fone ir atidedami pranešimai.</string>
+    <string name="battery_low_title">Įjungti režimą STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Įjungti režimą STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Apie režimą STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Režimą STAMINA</string>
+</resources>

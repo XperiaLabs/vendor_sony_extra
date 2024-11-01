@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA режимі</string>
+    <string name="battery_saver_auto_routine_summary">Келесі қалыпты зарядтау алдында батарея қуаты таусылуы мүмкін болған кезде STAMINA режимі қосылады</string>
+    <string name="battery_saver_master_switch_title">STAMINA реж. пайдалану</string>
+    <string name="battery_saver_sticky_description_new">Қуат мөлшері %1$s деңгейіне жеткенде, STAMINA режимі өшеді.</string>
+    <string name="battery_tip_dialog_summary_message">"Қолданбалар батарея зарядын қалыпты мөлшерде пайдалануда. Егер қолданбалар батарея зарядын тым көп пайдаланса, құрылғыңыз орындауға болатын әрекеттерді ұсынады.
+
+Батарея қуаты таусылып жатқан жағдайда үнемі STAMINA режимін қосуға болады."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA режимі қосулы</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA режимін қосу</string>
+    <string name="battery_tip_low_battery_summary">Батарея жұмысын ұзарту үшін STAMINA режимін қосыңыз</string>
+    <string name="condition_battery_title">STAMINA режимі қосулы</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA режиміне байланысты уақытша қосулы</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">STAMINA режиміне байланысты қосулы/уақытша өшірулі</string>
+    <string name="keywords_battery_saver_schedule">қалыпты, кесте, stamina режимі, қуат үнемдегіш, батарея, автоматты, пайыз</string>
+    <string name="keywords_battery_saver_sticky">stamina режимі, тұрақты, жалғасу, қуатты үнемдегіш, батарея</string>
+</resources>

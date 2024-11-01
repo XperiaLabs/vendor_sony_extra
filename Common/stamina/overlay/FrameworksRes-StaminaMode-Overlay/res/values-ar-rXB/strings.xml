@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮turns‬‏ ‏‮off‬‏ ‏‮or‬‏ ‏‮restricts‬‏ ‏‮background‬‏ ‏‮activity,‬‏ ‏‮some‬‏ ‏‮visual‬‏ ‏‮effects‬‏ ‏‮&amp;‬‏ ‏‮other‬‏ ‏‮high-power‬‏ ‏‮features‬‏ ‏‮to‬‏ ‏‮extend‬‏ ‏‮battery‬‏ ‏‮life.‬‏</string>
+    <string name="battery_saver_description_with_learn_more">‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮turns‬‏ ‏‮off‬‏ ‏‮or‬‏ ‏‮restricts‬‏ ‏‮background‬‏ ‏‮activity,‬‏ ‏‮some‬‏ ‏‮visual‬‏ ‏‮effects‬‏ ‏‮&amp;‬‏ ‏‮other‬‏ ‏‮high-power‬‏ ‏‮features‬‏ ‏‮to‬‏ ‏‮extend‬‏ ‏‮battery‬‏ ‏‮life.‬‏ <annotation id="url">‏‮Learn‬‏ ‏‮More‬‏</annotation></string>
+    <string name="battery_saver_notification_channel_name">‏‮STAMINA‬‏ ‏‮mode‬‏</string>
+    <string name="battery_saver_off_notification_title">‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮turned‬‏ ‏‮off‬‏</string>
+    <string name="dynamic_mode_notification_title">‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮turned‬‏ ‏‮on‬‏</string>
+</resources>

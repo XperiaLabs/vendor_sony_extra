@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">حالت STAMINA فعالیت پس‌زمینه، برخی از جلوه‌های دیداری و سایر قابلیت‌های با مصرف بالای نیرو را غیرفعال یا محدود می‌کند تا عمر باتری افزایش یابد.</string>
+    <string name="battery_saver_description_with_learn_more">حالت STAMINA فعالیت پس‌زمینه، برخی از جلوه‌های دیداری و سایر قابلیت‌های با مصرف بالای نیرو را غیرفعال یا محدود می‌کند تا عمر باتری افزایش یابد. <annotation id="url">بیشتر بدانید</annotation></string>
+    <string name="battery_saver_notification_channel_name">حالت STAMINA</string>
+    <string name="battery_saver_off_notification_title">حالت STAMINA خاموش شد</string>
+</resources>

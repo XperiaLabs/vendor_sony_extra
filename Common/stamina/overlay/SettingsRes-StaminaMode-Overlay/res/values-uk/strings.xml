@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Режим STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Режим STAMINA вмикається, якщо заряд може закінчитися швидше, ніж настане звичний час заряджання акумулятора</string>
+    <string name="battery_saver_master_switch_title">Використ. режим STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Режим STAMINA вимикається, коли рівень заряду акумулятора досягає %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Програми використовують звичайний обсяг заряду акумулятора. Якщо вони споживатимуть забагато енергії, пристрій запропонує відповідні дії.
+
+Ви завжди можете ввімкнути режим STAMINA, коли заряд акумулятора знизиться."</string>
+    <string name="battery_tip_early_heads_up_done_title">Режим STAMINA ввімкнено</string>
+    <string name="battery_tip_early_heads_up_title">Увімкнути режим STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Увімкніть режим STAMINA для подовження тривалості роботи від акумулятора</string>
+    <string name="condition_battery_title">Режим STAMINA ввімкнено</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Тимчасово ввімкнено через режим STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Ввімкнено/тимчасово вимкнено через режим STAMINA</string>
+    <string name="keywords_battery_saver_schedule">розпорядок, розклад, режим stamina, засіб збереження енергії, акумулятор, автоматичний, процент</string>
+    <string name="keywords_battery_saver_sticky">режим stamina, стійкий, зберігатися, засіб збереження енергії, акумулятор</string>
+</resources>

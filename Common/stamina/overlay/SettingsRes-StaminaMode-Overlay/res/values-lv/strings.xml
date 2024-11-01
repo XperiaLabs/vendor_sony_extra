@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA režīms</string>
+    <string name="battery_saver_auto_routine_summary">Režīms STAMINA ieslēdzas, ja akumulators izlādēsies pirms nākamās parastās uzlādes</string>
+    <string name="battery_saver_master_switch_title">Izmantot STAMINA režīmu</string>
+    <string name="battery_saver_sticky_description_new">Režīms STAMINA izslēdzas, kad akumulatora uzlādes līmenis sasniedz %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Jūsu lietotnes patērē normālu akumulatora enerģijas apjomu. Ja lietotnes patērē pārāk daudz akumulatora enerģijas, jūsu ierīcē tiks parādītas ieteicamās darbības.
+
+Ja akumulatora uzlādes līmenis ir zems, varat jebkurā laikā ieslēgt STAMINA režīmu."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA režīms ir ieslēgts</string>
+    <string name="battery_tip_early_heads_up_title">Ieslēgt STAMINA režīmu</string>
+    <string name="battery_tip_low_battery_summary">Ieslēdziet STAMINA režīmu, lai pagarinātu akumulatora darbības laiku</string>
+    <string name="condition_battery_title">STAMINA režīms ir ieslēgts</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Īslaicīgi ieslēgts režīmā STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Ieslēgts/īslaicīgi atspējots režīmā STAMINA</string>
+    <string name="keywords_battery_saver_schedule">rutīna, grafiks, stamina režīms, enerģijas taupītājs, akumulators, automātiski, procenti</string>
+    <string name="keywords_battery_saver_sticky">stamina režīms, ilgstošs, saglabāts, enerģijas taupīšana, akumulators</string>
+</resources>

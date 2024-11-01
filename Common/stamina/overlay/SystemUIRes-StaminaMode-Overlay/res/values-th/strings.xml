@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">แตะเพื่อตั้งเวลาโหมด STAMINA</string>
+    <string name="battery_detail_switch_title">โหมด STAMINA</string>
+    <string name="battery_low_description">คุณมีแบตเตอรี่เหลืออยู่ %s โหมด STAMINA จะเปิดธีมมืด จำกัดกิจกรรมในเบื้องหลัง และหน่วงเวลาการแจ้งเตือน</string>
+    <string name="battery_low_intro">โหมด STAMINA จะเปิดธีมมืด จำกัดกิจกรรมในเบื้องหลัง และหน่วงเวลาการแจ้งเตือน</string>
+    <string name="battery_low_title">เปิดโหมด STAMINA ไหม</string>
+    <string name="battery_saver_confirmation_title">เปิดโหมด STAMINA หรือไม่</string>
+    <string name="battery_saver_confirmation_title_generic">เกี่ยวกับโหมด STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">โหมด STAMINA</string>
+</resources>

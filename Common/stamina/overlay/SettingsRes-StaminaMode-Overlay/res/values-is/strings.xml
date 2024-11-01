@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA stilling</string>
+    <string name="battery_saver_auto_routine_summary">STAMINA-hátturinn fer í gang ef líkur eru á að rafhlaðan tæmist áður en þú hleður hana eins og vanalega</string>
+    <string name="battery_saver_master_switch_title">Nota STAMINA-hátt</string>
+    <string name="battery_tip_dialog_summary_message">"Forritin þín nota óeðlilega mikið af rafhlöðunni. Ef forrit nota of mikið af rafhlöðunni bendir síminn þinn þér á hvað best er að gera.
+
+Þú getur alltaf kveikt á STAMINA-hætti er rafhlaðan er að tæmast."</string>
+    <string name="battery_tip_early_heads_up_done_title">Kveikt er á STAMINA-hætti</string>
+    <string name="battery_tip_early_heads_up_title">Kveiktu á STAMINA-hætti</string>
+    <string name="battery_tip_low_battery_summary">Kveiktu á STAMINA-stillingunni ​til að lengja rafhlöðuendingu</string>
+    <string name="condition_battery_title">Kveikt er á STAMINA-hætti</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Tímabundið aftengt vegna STAMINA-háttarins</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Kveikt / aftengt tímabundið vegna STAMINA-háttarins</string>
+    <string name="keywords_battery_saver_schedule">rútína, áætlun stamina-háttur, orkusparnaður, rafhlaða, sjálfvirkni, prósent</string>
+    <string name="keywords_battery_saver_sticky">stamina-háttur, límdur þrjóskast við, orkusparandi, rafhlaða</string>
+</resources>

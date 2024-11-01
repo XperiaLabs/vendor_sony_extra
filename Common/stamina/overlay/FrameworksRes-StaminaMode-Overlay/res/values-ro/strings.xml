@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Modul STAMINA dezactivează sau restricţionează activitatea în fundal, unele efecte vizuale şi alte funcţii care implică un consum ridicat de energie pentru a prelungi autonomia bateriei.</string>
+    <string name="battery_saver_description_with_learn_more">Modul STAMINA dezactivează sau restricţionează activitatea în fundal, unele efecte vizuale şi alte funcţii care implică un consum ridicat de energie pentru a prelungi autonomia bateriei. <annotation id="url">Aflaţi mai multe</annotation></string>
+    <string name="battery_saver_notification_channel_name">Mod STAMINA</string>
+    <string name="battery_saver_off_notification_title">Modul STAMINA a fost dezactivat.</string>
+    <string name="dynamic_mode_notification_title">Modul STAMINA este activat</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">โหมด STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">โหมด STAMINA จะเปิดขึ้นเมื่อแบตเตอรี่มีโอกาสที่จะหมดก่อนเวลาชาร์จตามปกติของคุณในครั้งต่อไป</string>
+    <string name="battery_saver_master_switch_title">ใช้โหมด STAMINA</string>
+    <string name="battery_saver_sticky_description_new">โหมด STAMINA จะปิดเมื่อแบตเตอรี่ถึง %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"แอปกำลังใช้แบตเตอรี่ตามปกติ หากแอปใช้แบตเตอรี่มากเกินไป อุปกรณ์จะแนะนำการดำเนินการที่คุณทำได้
+
+คุณสามารถเปิดโหมด STAMINA ได้เสมอหากแบตเตอรี่เหลือน้อย"</string>
+    <string name="battery_tip_early_heads_up_done_title">โหมด STAMINA เปิดอยู่</string>
+    <string name="battery_tip_early_heads_up_title">เปิดโหมด STAMINA</string>
+    <string name="battery_tip_low_battery_summary">เปิดโหมด STAMINA เพื่อยืดอายุการใช้งานแบตเตอรี่</string>
+    <string name="condition_battery_title">โหมด STAMINA เปิดอยู่</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">ปิดใช้งานชั่วคราวเนื่องจากโหมด STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">เปิด / ปิดใช้งานชั่วคราวเนื่องจากโหมด STAMINA</string>
+    <string name="keywords_battery_saver_schedule">กิจวัตร, ตารางเวลา, โหมด stamina, ประหยัดแบตเตอรี่, แบตเตอรี่, อัตโนมัติ, เปอร์เซ็นต์</string>
+    <string name="keywords_battery_saver_sticky">โหมด stamina, ค้าง, ไม่หาย, ประหยัดแบตเตอรี่, แบตเตอรี่</string>
+</resources>

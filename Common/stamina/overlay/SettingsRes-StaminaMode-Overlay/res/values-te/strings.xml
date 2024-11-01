@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA విధానం</string>
+    <string name="battery_saver_auto_routine_summary">మీ తదుపరి సాధారణంగా ఛార్జ్ చేయడానికి ముందు మీ బ్యాటరీ ముగిసినపోయినట్లయితే STAMINA విధానం ఆన్ చేయబడుతుంది</string>
+    <string name="battery_saver_master_switch_title">STAMINA విధానా. ఉపయోగిం.</string>
+    <string name="battery_tip_dialog_summary_message">"మీ అప్లికేషన్‌లు సాధారణ బ్యాటరీ పరిమాణాన్ని ఉపయోగిస్తున్నాయి, అప్లికేషన్‌లు చాలా ఎక్కువ బ్యాటరీని వినియోగిస్తున్నట్లయితే, మీ ఫోన్ మీరు తీసుకునే చర్యలను సూచిస్తుంది.
+
+ఒకవేళ బ్యాటరీ తక్కువ అమలవుతున్నట్లయితే మీకు STAMINA విధానాన్ని ఎల్లప్పుడూ ఆన్ చేయవచ్చు."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA విధానం ఆన్‌లో ఉంది‌</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA విధానాన్ని ఆన్ చేయండి</string>
+    <string name="battery_tip_low_battery_summary">బ్యాటరీ జీవిత కాలాన్ని పొడిగించడానికి STAMINA విధానాన్ని ఆన్ చేయండి</string>
+    <string name="condition_battery_title">STAMINA విధానం ఆన్‌లో ఉంది‌</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA విధానం కారణంగా తాత్కాలికంగా ఆన్ చేయబడింది</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">STAMINA విధానం కారణంగా తాత్కాలికంగా ఆన్ / డిసేబుల్ చేయబడింది</string>
+    <string name="keywords_battery_saver_schedule">రొటీన్, షెడ్యూల్, stamina విధానం, పవర్ సేవర్, బ్యాటరీ, ఆటోమేటిక్, శాతం</string>
+    <string name="keywords_battery_saver_sticky">stamina విధానం, కలుపు, కొనసాగేవి, విద్యుత్ ఆదా, బ్యాటరీ</string>
+</resources>

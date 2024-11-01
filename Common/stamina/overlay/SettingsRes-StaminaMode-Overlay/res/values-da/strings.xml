@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Tilstanden STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">STAMINA-tilstand slås til, hvis der er sandsynlighed for, at dit batteri løber tør, før din næste typiske opladning</string>
+    <string name="battery_saver_master_switch_title">Brug STAMINA-tilstand</string>
+    <string name="battery_saver_sticky_description_new">STAMINA-tilstand slås fra, når dit batteri når %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Dine apps har et normalt batteriforbrug. Hvis apps bruger for meget batteri, foreslår din enhed, hvad du kan gøre.
+
+Du kan altid slå STAMINA-tilstanden til, hvis du er ved at løbe tør for batteri."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA-tilstand er slået til</string>
+    <string name="battery_tip_early_heads_up_title">Slå STAMINA-tilstand til</string>
+    <string name="battery_tip_low_battery_summary">Slå STAMINA-tilstand til for at forlænge batteritiden</string>
+    <string name="condition_battery_title">STAMINA-tilstand er slået til</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Midlertidigt aktiveret af STAMINA-tilstand</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Aktiveret/midlertidigt deaktiveret af STAMINA-tilstand</string>
+    <string name="keywords_battery_saver_schedule">rutine, tidsplan, stamina-tilstand, strømsparetilstand, batteri, automatisk, procent</string>
+    <string name="keywords_battery_saver_sticky">stamina-tilstand, holder længe, vedvarende, strømbesparende, batteri</string>
+</resources>

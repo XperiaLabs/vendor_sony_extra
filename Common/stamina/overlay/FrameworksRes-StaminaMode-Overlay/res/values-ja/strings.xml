@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINAモードを有効にすると、電池を長持ちさせるため、バックグラウンドアクティビティや一部の視覚効果など、電力消費量の多い機能が制限されます。</string>
+    <string name="battery_saver_description_with_learn_more">STAMINAモードを有効にすると、電池を長持ちさせるため、バックグラウンドアクティビティや一部の視覚効果など、電力消費量の多い機能が制限されます。<annotation id="url">詳細</annotation>"
+"</string>
+    <string name="battery_saver_notification_channel_name">STAMINAモード</string>
+    <string name="battery_saver_off_notification_title">STAMINAモードがOFFになりました</string>
+    <string name="dynamic_mode_notification_title">STAMINAモードがONになりました</string>
+</resources>

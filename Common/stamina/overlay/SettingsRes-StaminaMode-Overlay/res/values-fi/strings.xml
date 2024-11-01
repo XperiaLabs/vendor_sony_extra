@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA-tila</string>
+    <string name="battery_saver_auto_routine_summary">STAMINA-tila otetaan käyttöön, jos akkusi on loppumassa ennen seuraavaa tavallista latausta</string>
+    <string name="battery_saver_master_switch_title">Käytä STAMINA-tilaa</string>
+    <string name="battery_saver_sticky_description_new">STAMINA-tila menee pois päältä, kun akun varaus on %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Sovelluksesi kuluttavat akkua normaalisti. Jos sovellusten virrankulutus on liian suurta, laite ehdottaa mahdollisia toimenpiteitä.
+
+Jos akku on vähissä, voit ottaa STAMINA-tilan käyttöön."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA-tila on käytössä</string>
+    <string name="battery_tip_early_heads_up_title">Ota STAMINA-tila käyttöön</string>
+    <string name="battery_tip_low_battery_summary">Laita STAMINA-tila päälle akunkeston parantamiseksi</string>
+    <string name="condition_battery_title">STAMINA-tila on käytössä</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Tilapäisesti päällä STAMINA-tilan takia</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Päällä / tilapäisesti poissa STAMINA-tilan takia</string>
+    <string name="keywords_battery_saver_schedule">rutiini, aikataulu, stamina-tila, virransäästö, akku, automaattinen, prosentti</string>
+    <string name="keywords_battery_saver_sticky">stamina-tila, pysyvä, kestävä, virransäästö, akku</string>
+</resources>

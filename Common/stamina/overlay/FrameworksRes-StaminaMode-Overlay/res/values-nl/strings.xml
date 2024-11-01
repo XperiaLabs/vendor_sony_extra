@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA-modus beperkt de achtergrondactiviteit, bepaalde visuele effecten en andere functies die veel stroom kosten of schakelt deze uit om de batterijduur te verlengen.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA-modus beperkt de achtergrondactiviteit, bepaalde visuele effecten en andere functies die veel stroom kosten of schakelt deze uit om de batterijduur te verlengen. <annotation id="url">Meer informatie</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA-modus</string>
+    <string name="battery_saver_off_notification_title">STAMINA-modus is uitgeschakeld</string>
+    <string name="dynamic_mode_notification_title">STAMINA-modus is ingeschakeld</string>
+</resources>

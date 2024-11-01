@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Tryck för att schemalägga STAMINA-läget</string>
+    <string name="battery_detail_switch_title">STAMINA-läge</string>
+    <string name="battery_low_description">%s av batteriet återstår. I STAMINA-läget aktiveras Mörkt tema, bakgrundsaktivitet begränsas och aviseringar skjuts upp.</string>
+    <string name="battery_low_intro">I STAMINA-läget aktiveras Mörkt tema, bakgrundsaktivitet begränsas och aviseringar skjuts upp.</string>
+    <string name="battery_low_title">Vill du aktivera STAMINA-läget?</string>
+    <string name="battery_saver_confirmation_title">Vill du aktivera STAMINA-läget?</string>
+    <string name="battery_saver_confirmation_title_generic">Om STAMINA-läge</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA-läge</string>
+</resources>

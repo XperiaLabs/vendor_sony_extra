@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Stuknij, aby zaplanować tryb STAMINA</string>
+    <string name="battery_detail_switch_title">Tryb STAMINA</string>
+    <string name="battery_low_description">Masz już tylko %s baterii. Tryb STAMINA włącza ciemny motyw, ogranicza aktywność w tle i opóźnia powiadomienia.</string>
+    <string name="battery_low_intro">Tryb STAMINA włącza ciemny motyw, ogranicza aktywność w tle i opóźnia powiadomienia.</string>
+    <string name="battery_low_title">Włączyć tryb STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Włączyć tryb STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Informacje o trybie STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Tryb STAMINA</string>
+</resources>

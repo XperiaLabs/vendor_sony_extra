@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Mode STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">"El mode STAMINA s'activarà si és probable que us quedeu sense bateria abans de la càrrega habitual següent"</string>
+    <string name="battery_saver_master_switch_title">Ús del mode STAMINA</string>
+    <string name="battery_tip_dialog_summary_message">"Les vostres aplicacions consumeixen una quantitat normal de bateria. Si en consumeixen massa, el telèfon us suggerirà mesures per evitar-ho.
+
+Si teniu poca bateria, sempre podeu activar el mode STAMINA."</string>
+    <string name="battery_tip_early_heads_up_done_title">El mode STAMINA està activat</string>
+    <string name="battery_tip_early_heads_up_title">Activa el mode STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Activeu el mode STAMINA per allargar la durada de la bateria</string>
+    <string name="condition_battery_title">El mode STAMINA està activat</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Activat temporalment pel mode STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Activat (desactivat temporalment pel mode STAMINA)</string>
+    <string name="keywords_battery_saver_schedule">"rutina, agenda, mode stamina, estalvi d'energia, bateria, automàtic, percentatge"</string>
+    <string name="keywords_battery_saver_sticky">"mode stamina, durader, persistent, estalvi d'energia, bateria"</string>
+</resources>

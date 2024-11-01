@@ -32,6 +32,7 @@ TARGET_SHIPS_XPERIA_LWP ?= false
 TARGET_SHIPS_XPERIA_LWP_CINEMAWIDE ?= false
 TARGET_SHIPS_XPERIA_LWP_NEWEST ?= false
 TARGET_SHIPS_SIDE_SENSE ?= false
+TARGET_SHIPS_STAMINA_MODE ?= false
 
 # Sony Framework
 ifeq ($(TARGET_SHIPS_SONY_FRAMEWORK),true)
@@ -100,4 +101,9 @@ endif
 # Side Sense
 ifeq ($(TARGET_SHIPS_SIDE_SENSE),true)
     $(call inherit-product, vendor/sony/extra/Common/sidesense/sidesense.mk)
+endif
+
+# STAMINA Mode
+ifeq ($(TARGET_SHIPS_STAMINA_MODE),true)
+    $(call inherit-product, vendor/sony/extra/Common/stamina/stmmode.mk)
 endif

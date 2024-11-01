@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Ino-off o pinaghihigpitan ng STAMINA mode ang aktibidad sa background, ang ilang visual effect at iba pang mga high-power na feature para patagalin ang baterya.</string>
+    <string name="battery_saver_description_with_learn_more">Ino-off o pinaghihigpitan ng STAMINA mode ang aktibidad sa background, ang ilang visual effect at iba pang mga high-power na feature para patagalin ang baterya. <annotation id="url">Matuto Pa</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA mode</string>
+    <string name="battery_saver_off_notification_title">Na-off ang STAMINA mode</string>
+</resources>

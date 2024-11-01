@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Regjimi STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Regjimi STAMINA aktivizohet nëse bateria mund të mbarojë përpara karikimit të zakonshëm të radhës</string>
+    <string name="battery_saver_master_switch_title">Përdorni regjimin STAMINA</string>
+    <string name="battery_tip_dialog_summary_message">"Aplikacionet tuaja po përdorin një sasi normale të baterisë. Nëse aplikacionet përdorin një sasi të madhe të baterisë, telefoni juaj do të japë sugjerime për veprimet që mund të kryeni.
+
+Mund të aktivizoni gjithmonë regjimin STAMINA nëse po ju mbaron bateria."</string>
+    <string name="battery_tip_early_heads_up_done_title">Regjimi STAMINA është aktiv</string>
+    <string name="battery_tip_early_heads_up_title">Aktivizoni regjimin STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Aktivizoni regjimin STAMINA për të zgjatur kohëzgjatjen e baterisë</string>
+    <string name="condition_battery_title">Regjimi STAMINA është aktiv</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Aktivizuar përkohësisht për shkak të regjimit STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Aktive / Çaktivizuar për shkak të regjimit STAMINA</string>
+    <string name="keywords_battery_saver_schedule">rutina, planifikimi, regjimi stamina, kursyesi i energjisë, bateria, automatik, për qind</string>
+    <string name="keywords_battery_saver_sticky">regjimi stamina, i vazhdueshëm, vazhdon, kursyesi i baterisë, bateria</string>
+</resources>

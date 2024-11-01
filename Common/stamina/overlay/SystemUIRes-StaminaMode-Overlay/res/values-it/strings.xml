@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Sfiora per programmare la modalità STAMINA</string>
+    <string name="battery_detail_switch_title">Modalità STAMINA</string>
+    <string name="battery_low_description">"Batteria rimanente: %s. La modalità STAMINA attiva il tema scuro, limita l'attività in background e ritarda le notifiche."</string>
+    <string name="battery_low_intro">"La modalità STAMINA attiva il tema scuro, limita l'attività in background e ritarda le notifiche."</string>
+    <string name="battery_low_title">Attivare la modalità STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Attivare la modalità STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Informazioni sulla modalità STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Modalità STAMINA</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Puntegeu per programar el mode STAMINA</string>
+    <string name="battery_detail_switch_title">Mode STAMINA</string>
+    <string name="battery_low_description">"Et queda un %s de bateria. El mode STAMINA activa el Tema fosc, restringeix l'activitat en segon pla i endarrereix les notificacions."</string>
+    <string name="battery_low_intro">"El mode STAMINA activa el Tema fosc, restringeix l'activitat en segon pla i endarrereix les notificacions."</string>
+    <string name="battery_low_title">Vols activar el mode STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Voleu activar el mode STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Quant al mode STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Mode STAMINA</string>
+</resources>

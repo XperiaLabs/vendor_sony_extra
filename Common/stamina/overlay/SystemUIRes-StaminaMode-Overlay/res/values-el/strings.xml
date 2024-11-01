@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Πατήστε για να προγραμμ. τη λειτουργ. STAMINA</string>
+    <string name="battery_detail_switch_title">Λειτουργία STAMINA</string>
+    <string name="battery_low_description">Απομένει %s μπαταρία. Η λειτουργία STAMINA ενεργοποιεί το Σκοτεινό θέμα, περιορίζει τη δραστηριότητα στο παρασκήνιο και καθυστερεί τις ειδοποιήσεις.</string>
+    <string name="battery_low_intro">Η λειτουργία STAMINA ενεργοποιεί το Σκοτεινό θέμα, περιορίζει τη δραστηριότητα στο παρασκήνιο και καθυστερεί τις ειδοποιήσεις.</string>
+    <string name="battery_low_title">Ενεργοποίηση της λειτουργίας STAMINA;</string>
+    <string name="battery_saver_confirmation_title">Ενεργοποίηση της λειτουργίας STAMINA;</string>
+    <string name="battery_saver_confirmation_title_generic">Σχετικά με τη λειτουργία STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Λειτουργία STAMINA</string>
+</resources>

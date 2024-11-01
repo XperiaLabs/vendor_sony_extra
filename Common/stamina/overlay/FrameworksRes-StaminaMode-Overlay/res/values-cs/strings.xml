@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Režim STAMINA vypne nebo omezí aktivitu na pozadí, některé vizuální efekty a další funkce náročné na energii, aby vám pomohl šetřit baterii.</string>
+    <string name="battery_saver_description_with_learn_more">Režim STAMINA vypne nebo omezí aktivitu na pozadí, některé vizuální efekty a další funkce náročné na energii, aby vám pomohl šetřit baterii. <annotation id="url">Další informace</annotation></string>
+    <string name="battery_saver_notification_channel_name">Režim STAMINA</string>
+    <string name="battery_saver_off_notification_title">Režim STAMINA je vypnutý</string>
+    <string name="dynamic_mode_notification_title">Režim STAMINA je zapnutý</string>
+</resources>

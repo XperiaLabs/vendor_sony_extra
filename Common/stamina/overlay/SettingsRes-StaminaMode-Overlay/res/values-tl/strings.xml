@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA mode</string>
+    <string name="battery_saver_auto_routine_summary">Mag-o-on ang STAMINA mode kung malamang na mauubos na ang baterya mo bago ang susunod mong karaniwang pag-charge</string>
+    <string name="battery_saver_master_switch_title">Gamitin ang STAMINA mode</string>
+    <string name="battery_tip_dialog_summary_message">"Ang mga app mo ay gumagamit ng karaniwang dami ng baterya. Kung masyadong maraming baterya ang ginagamit ng mga app, magmumungkahi ang iyong phone ng mga hakbang na maaari mong gawin.
+
+Maaari mong i-on ang STAMINA mode anumang oras, kapag papaubos na ang iyong baterya."</string>
+    <string name="battery_tip_early_heads_up_done_title">Naka-on ang STAMINA mode</string>
+    <string name="battery_tip_early_heads_up_title">I-on ang STAMINA mode</string>
+    <string name="battery_tip_low_battery_summary">I-on ang ​STAMINA mode para patagalin ang baterya</string>
+    <string name="condition_battery_title">Naka-on ang STAMINA mode</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Pansamantalang naka-on dahil sa STAMINA mode</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Naka-on / Pansamantalang naka-disable dahil sa STAMINA mode</string>
+    <string name="keywords_battery_saver_schedule">routine, iskedyul, stamina mode, power savery, baterya, awtomatiko, porsyento</string>
+    <string name="keywords_battery_saver_sticky">stamina mode, sticky, persist, power saver, baterya</string>
+</resources>

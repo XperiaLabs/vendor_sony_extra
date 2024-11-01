@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">‏‮STAMINA‬‏ ‏‮mode‬‏</string>
+    <string name="battery_saver_auto_routine_summary">‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮turns‬‏ ‏‮on‬‏ ‏‮if‬‏ ‏‮your‬‏ ‏‮battery‬‏ ‏‮is‬‏ ‏‮likely‬‏ ‏‮to‬‏ ‏‮run‬‏ ‏‮out‬‏ ‏‮before‬‏ ‏‮your‬‏ ‏‮next‬‏ ‏‮typical‬‏ ‏‮charge‬‏</string>
+    <string name="battery_saver_master_switch_title">‏‮Use‬‏ ‏‮STAMINA‬‏ ‏‮mode‬‏</string>
+    <string name="battery_saver_sticky_description_new">‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮turns‬‏ ‏‮off‬‏ ‏‮when‬‏ ‏‮battery‬‏ ‏‮reaches‬‏ %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"‏‮Your‬‏ ‏‮apps‬‏ ‏‮are‬‏ ‏‮using‬‏ ‏‮a‬‏ ‏‮normal‬‏ ‏‮amount‬‏ ‏‮of‬‏ ‏‮battery.‬‏ ‏‮If‬‏ ‏‮apps‬‏ ‏‮use‬‏ ‏‮too‬‏ ‏‮much‬‏ ‏‮battery,‬‏ ‏‮your‬‏ ‏‮device‬‏ ‏‮will‬‏ ‏‮suggest‬‏ ‏‮actions‬‏ ‏‮you‬‏ ‏‮can‬‏ ‏‮take.‬‏
+
+‏‮You‬‏ ‏‮can‬‏ ‏‮always‬‏ ‏‮turn‬‏ ‏‮on‬‏ ‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮if‬‏ ‏‮you're‬‏ ‏‮running‬‏ ‏‮low‬‏ ‏‮on‬‏ ‏‮battery.‬‏"</string>
+    <string name="battery_tip_early_heads_up_done_title">‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮is‬‏ ‏‮on‬‏</string>
+    <string name="battery_tip_early_heads_up_title">‏‮Turn‬‏ ‏‮on‬‏ ‏‮STAMINA‬‏ ‏‮mode‬‏</string>
+    <string name="battery_tip_low_battery_summary">‏‮Turn‬‏ ‏‮on‬‏ ‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮to‬‏ ‏‮extend‬‏ ‏‮battery‬‏ ‏‮life‬‏</string>
+    <string name="condition_battery_title">‏‮STAMINA‬‏ ‏‮mode‬‏ ‏‮is‬‏ ‏‮on‬‏</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">‏‮Temporarily‬‏ ‏‮turned‬‏ ‏‮on‬‏ ‏‮due‬‏ ‏‮to‬‏ ‏‮STAMINA‬‏ ‏‮mode‬‏</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">‏‮On‬‏ ‏‮/‬‏ ‏‮Temporarily‬‏ ‏‮disabled‬‏ ‏‮due‬‏ ‏‮to‬‏ ‏‮STAMINA‬‏ ‏‮mode‬‏</string>
+    <string name="keywords_battery_saver_schedule">‏‮routine,‬‏ ‏‮schedule,‬‏ ‏‮stamina‬‏ ‏‮mode,‬‏ ‏‮power‬‏ ‏‮saver,‬‏ ‏‮battery,‬‏ ‏‮automatic,‬‏ ‏‮percent‬‏</string>
+    <string name="keywords_battery_saver_sticky">‏‮stamina‬‏ ‏‮mode,‬‏ ‏‮sticky,‬‏ ‏‮persist,‬‏ ‏‮power‬‏ ‏‮saver,‬‏ ‏‮battery‬‏</string>
+</resources>

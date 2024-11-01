@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">"Le mode STAMINA désactive ou restreint les activités en arrière-plan, certains effet visuels et d'autres fonctionnalités qui consomment beaucoup d'énergie afin de prolonger l'autonomie de la batterie."</string>
+    <string name="battery_saver_description_with_learn_more">"Le mode STAMINA désactive ou restreint les activités en arrière-plan, certains effet visuels et d'autres fonctionnalités qui consomment beaucoup d'énergie afin de prolonger l'autonomie de la batterie. "<annotation id="url">En savoir plus</annotation></string>
+    <string name="battery_saver_notification_channel_name">Mode STAMINA</string>
+    <string name="battery_saver_off_notification_title">Mode STAMINA désactivé</string>
+    <string name="dynamic_mode_notification_title">Mode STAMINA activé</string>
+</resources>

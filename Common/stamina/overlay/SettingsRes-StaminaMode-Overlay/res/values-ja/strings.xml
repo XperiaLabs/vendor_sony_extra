@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINAモード</string>
+    <string name="battery_saver_auto_routine_summary">次回の通常の充電前に電池が切れる可能性がある場合、STAMINAモードが ON になります</string>
+    <string name="battery_saver_master_switch_title">STAMINAモードの使用</string>
+    <string name="battery_saver_sticky_description_new">STAMINAモードは電池残量が%1$sになるとOFFになります</string>
+    <string name="battery_tip_dialog_summary_message">"アプリの電池使用量は正常です。アプリが電池を使いすぎる場合は、対処可能なおすすめの方法がデバイスに表示されます。
+
+電池の残量が少なくなったら、いつでもSTAMINAモードをONにできます。"</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINAモードがONです</string>
+    <string name="battery_tip_early_heads_up_title">STAMINAモードをONにしてください</string>
+    <string name="battery_tip_low_battery_summary">STAMINAモードをONにして電池の消費を抑制します</string>
+    <string name="condition_battery_title">STAMINAモードON</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINAモードにより一時的に有効になりました</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">ON / STAMINAモードにより一時的に無効になりました</string>
+    <string name="keywords_battery_saver_schedule">ルーティン, スケジュール, STAMINAモード, パワーセーバー, 電池, 自動, パーセント, 繰り返し, 定型, 消費電力, 節約, パワー, バッテリー</string>
+    <string name="keywords_battery_saver_sticky">STAMINAモード、長持ち、持続する、省電力、バッテリー</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">省電模式</string>
+    <string name="battery_saver_auto_routine_summary">若您的電池電量可能會在下一次例行充電前耗盡，則省電模式會開啟</string>
+    <string name="battery_saver_master_switch_title">使用省電模式</string>
+    <string name="battery_saver_sticky_description_new">當電池電量達到%1$s時，省電模式關閉</string>
+    <string name="battery_tip_dialog_summary_message">"您的應用程式目前的耗電量正常。如果應用程式耗電過多，裝置將會為您提供操作建議。
+
+如果電量偏低，您隨時可以開啟省電模式。"</string>
+    <string name="battery_tip_early_heads_up_done_title">省電模式已開啟</string>
+    <string name="battery_tip_early_heads_up_title">開啟省電模式</string>
+    <string name="battery_tip_low_battery_summary">開啟省電模式以延長電池續航力</string>
+    <string name="condition_battery_title">省電模式已開啟</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">因省電模式而暫時開啟</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">開啟 / 因省電模式而暫時停用</string>
+    <string name="keywords_battery_saver_schedule">慣例，排程，省電模式，省電，電池，自動，百分比</string>
+    <string name="keywords_battery_saver_sticky">省電模式，持久，持續，省電，電池電量</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA-tila poistaa käytöstä taustatoiminnot, joitakin visuaalisia tehosteita ja muita virtaa runsaasti kuluttavia ominaisuuksia tai rajoittaa niitä akunkeston pidentämiseksi.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA-tila poistaa käytöstä taustatoiminnot, joitakin visuaalisia tehosteita ja muita virtaa runsaasti kuluttavia ominaisuuksia tai rajoittaa niitä akunkeston pidentämiseksi. <annotation id="url">Lue lisätietoja</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA-tila</string>
+    <string name="battery_saver_off_notification_title">STAMINA-tila laitettiin pois päältä</string>
+    <string name="dynamic_mode_notification_title">STAMINA-tila otettu käyttöön</string>
+</resources>

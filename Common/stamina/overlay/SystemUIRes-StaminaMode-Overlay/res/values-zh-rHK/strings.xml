@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">輕按以排程省電模式</string>
+    <string name="battery_detail_switch_title">省電模式</string>
+    <string name="battery_low_description">您剩下%s電池電量。省電模式會開啟深色主題、限制背景活動，並延遲顯示通知。</string>
+    <string name="battery_low_intro">省電模式會開啟深色主題、限制背景活動，並延遲顯示通知。</string>
+    <string name="battery_low_title">開啟省電模式？</string>
+    <string name="battery_saver_confirmation_title">開啟省電模式？</string>
+    <string name="battery_saver_confirmation_title_generic">關於省電模式</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">省電模式</string>
+</resources>

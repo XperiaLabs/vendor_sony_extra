@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Режим STAMINA изключва или ограничава активността на заден план, някои визуални ефекти и други функции с висок разход на енергия, за да удължи живота на батерията.</string>
+    <string name="battery_saver_description_with_learn_more">Режим STAMINA изключва или ограничава активността на заден план, някои визуални ефекти и други функции с висок разход на енергия, за да удължи живота на батерията. <annotation id="url">Научете повече</annotation></string>
+    <string name="battery_saver_notification_channel_name">Режим STAMINA</string>
+    <string name="battery_saver_off_notification_title">„Режим STAMINA“ е изключен</string>
+    <string name="dynamic_mode_notification_title">Ррежим STAMINA е включен</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">يعمل وضع STAMINA​ على إيقاف النشاط في الخلفية أو تقييد، وكذلك بعض التأثيرات المرئية وغيرها من الميزات التي تستهلك قدرًا كبيرًا من الطاقة من أجل إطالة عمر البطارية.</string>
+    <string name="battery_saver_description_with_learn_more">يعمل وضع STAMINA​ على إيقاف أو تقييد النشاط في الخلفية وبعض التأثيرات المرئية وغيرها من الميزات التي تستهلك قدر كبير من الطاقة وذلك لإطالة عمر البطارية. <annotation id="url">تعرّف على المزيد </annotation></string>
+    <string name="battery_saver_notification_channel_name">وضع STAMINA</string>
+    <string name="battery_saver_off_notification_title">تم إيقاف وضع STAMINA.</string>
+    <string name="dynamic_mode_notification_title">تم تشغيل وضع STAMINA</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">ضربه زدن برای زمان‌بندی حالت STAMINA</string>
+    <string name="battery_detail_switch_title">حالت STAMINA</string>
+    <string name="battery_low_description">‏%s از باتری‌تان باقی مانده است. «حالت STAMINA» زمینه «تیره» را روشن می‌کند، فعالیت‌های پس‌زمینه را محدود می‌کند، و اعلان‌ها را به‌تأخیر می‌اندازد.</string>
+    <string name="battery_low_intro">‏«حالت STAMINA» زمینه «تیره» را روشن می‌کند، فعالیت‌های پس‌زمینه را محدود می‌کند، و اعلان‌ها را به‌تأخیر می‌اندازد.</string>
+    <string name="battery_low_title">حالت STAMINA روشن شود؟</string>
+    <string name="battery_saver_confirmation_title">حالت STAMINA روشن شود؟</string>
+    <string name="battery_saver_confirmation_title_generic">درباره حالت STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">حالت STAMINA</string>
+</resources>

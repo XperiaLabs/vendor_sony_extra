@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA režiim</string>
+    <string name="battery_saver_auto_routine_summary">STAMINA-režiim lülitub sisse, kui teie aku saab enne tavapärast laadimisaega tõenäoliselt tühjaks</string>
+    <string name="battery_saver_master_switch_title">Kasuta STAMINA-režiimi</string>
+    <string name="battery_saver_sticky_description_new">STAMINA-režiim lülitub välja, kui aku laetuse tase on %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Teie rakendused kasutavad akut tavapärases ulatuses. Kui rakendused kasutavad liiga palju akut, soovitab seade teil midagi ette võtta.
+
+Kui aku hakkab tühjenema, saate alati sisse lülitada STAMINA-režiimi."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA-režiim on sisse lülitatud</string>
+    <string name="battery_tip_early_heads_up_title">Lülita sisse STAMINA-režiim</string>
+    <string name="battery_tip_low_battery_summary">Lülitage STAMINA-režiim aku tööea pikendamiseks sisse</string>
+    <string name="condition_battery_title">STAMINA-režiim on sisse lülitatud</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA-režiimi tõttu ajutiselt sisse lülitatud</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Sees / STAMINA-režiimi tõttu ajutiselt keelatud</string>
+    <string name="keywords_battery_saver_schedule">rutiin, ajakava, stamina-režiim, energiasäästja, aku, automaatne, protsent</string>
+    <string name="keywords_battery_saver_sticky">stamina-režiim, kleepuv, püsi, energiasäästja, aku</string>
+</resources>

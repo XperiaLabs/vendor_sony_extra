@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA режимін жоспарлау үшін түртіңіз</string>
+    <string name="battery_detail_switch_title">STAMINA режимі</string>
+    <string name="battery_low_description">​%s заряд қалды. STAMINA режимі Күңгірт тақырыпты іске қосады, фондық әрекеттерге шектеу қояды және хабарландыруларды кідіртеді.</string>
+    <string name="battery_low_intro">STAMINA режимі Күңгірт тақырыпты іске қосады, фондық әрекеттерге шектеу қояды және хабарландыруларды кідіртеді.</string>
+    <string name="battery_low_title">STAMINA режимін қосу керек пе?</string>
+    <string name="battery_saver_confirmation_title">STAMINA режимі қосылсын ба?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA режимі туралы</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA режимі</string>
+</resources>

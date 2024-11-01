@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA modu</string>
+    <string name="battery_saver_auto_routine_summary">Bir sonraki rutin şarj işleminden önce pilinizin tükenme olasılığı varsa STAMINA modu açılır.</string>
+    <string name="battery_saver_master_switch_title">STAMINA modunu kullan</string>
+    <string name="battery_saver_sticky_description_new">Pil %1$s seviyesine ulaştığında STAMINA modu devre dışı kalır</string>
+    <string name="battery_tip_dialog_summary_message">"Uygulamalarınız normal miktarda pil kullanıyor. Uygulamalar çok fazla pil kullanırsa telefonunuz size bazı önerilerde bulunacaktır.
+
+Piliniz azaldığında her zaman STAMINA modunu açabilirsiniz."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA modu açık</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA modunu aç</string>
+    <string name="battery_tip_low_battery_summary">Pil ömrünü uzatmak için STAMINA modunu açın</string>
+    <string name="condition_battery_title">STAMINA modu açık</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA modu nedeniyle geçici olarak açıldı</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Açık / STAMINA modu nedeniyle geçici olarak devre dışı</string>
+    <string name="keywords_battery_saver_schedule">rutin, planlama, stamina modu, pil tasarrufu, pil, otomatik, yüzde</string>
+    <string name="keywords_battery_saver_sticky">stamina modu, kalıcı, sabit, güç tasarrufu, pil</string>
+</resources>

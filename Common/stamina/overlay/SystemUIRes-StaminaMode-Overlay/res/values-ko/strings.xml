@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA 모드를 예약하려면 누름</string>
+    <string name="battery_detail_switch_title">STAMINA 모드</string>
+    <string name="battery_low_description">배터리가 %s 남았습니다. STAMINA 모드는 어두운 테마를 사용하고 백그라운드 활동을 제한하며 알림을 지연시킵니다.</string>
+    <string name="battery_low_intro">STAMINA 모드는 어두운 테마를 사용하고 백그라운드 활동을 제한하며 알림을 지연시킵니다.</string>
+    <string name="battery_low_title">STAMINA 모드를 켜시겠습니까?</string>
+    <string name="battery_saver_confirmation_title">STAMINA 모드를 사용하시겠습니까?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA 모드 정보</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA 모드</string>
+</resources>

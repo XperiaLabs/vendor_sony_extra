@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">El modo STAMINA desactiva o restringe la actividad en segundo plano, así como algunos efectos visuales y otras funciones que consumen mucha batería para poder prolongar su duración.</string>
+    <string name="battery_saver_description_with_learn_more">El modo STAMINA desactiva o restringe la actividad en segundo plano, así como algunos efectos visuales y otras funciones que consumen mucha batería para poder prolongar su duración. <annotation id="url">Más información</annotation></string>
+    <string name="battery_saver_notification_channel_name">Modo STAMINA</string>
+    <string name="battery_saver_off_notification_title">Modo STAMINA desactivado</string>
+    <string name="dynamic_mode_notification_title">Modo STAMINA activado</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA मोड बैकग्राउंड की गतिविधियों, कुछ दृश्य प्रभावों और बैटरी जीवन का विस्तार करने वाली अन्य हाई-पावर सुविधाओं को बंद कर देता है या उन पर रोक लगाता है।</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA मोड बैकग्राउंड की गतिविधियों, कुछ दृश्य प्रभावों और बैटरी जीवन का विस्तार करने वाली अन्य हाई-पावर सुविधाओं को बंद कर देता है या उन पर रोक लगाता है। <annotation id="url">अधिक जानें</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA मोड</string>
+    <string name="battery_saver_off_notification_title">STAMINA मोड बंद किया गया</string>
+</resources>

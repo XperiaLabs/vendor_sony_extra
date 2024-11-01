@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Ketuk untuk menjadwalkan mode STAMINA</string>
+    <string name="battery_detail_switch_title">Mode STAMINA</string>
+    <string name="battery_low_description">Daya baterai tersisa %s. Mode STAMINA akan mengaktifkan Tema gelap, membatasi aktivitas latar belakang, dan menunda notifikasi.</string>
+    <string name="battery_low_intro">Mode STAMINA akan mengaktifkan Tema gelap, membatasi aktivitas latar belakang, dan menunda notifikasi.</string>
+    <string name="battery_low_title">Aktifkan mode STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Aktifkan mode STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Tentang mode STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Mode STAMINA</string>
+</resources>

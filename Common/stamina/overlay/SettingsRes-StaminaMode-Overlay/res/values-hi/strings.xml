@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA मोड</string>
+    <string name="battery_saver_auto_routine_summary">आपके अगले सामान्य चार्ज से पहले आपकी बैटरी के समाप्त होने की संभावना होने पर STAMINA मोड चालू हो जाता है</string>
+    <string name="battery_saver_master_switch_title">STAMINA का उपयोग करें</string>
+    <string name="battery_tip_dialog_summary_message">"आपके अनुप्रयोग सामान्य मात्रा में बैटरी का उपयोग करते हैं। यदि अनुप्रयोग अत्यधिक बैटरी का उपयोग करते हैं, तो आपका फ़ोन आपको उन कार्रवाइयों का सुझाव देगा जो आप कर सकते हैं।
+
+यदि बैटरी खत्म हो रही है, तो आप कभी भी STAMINA मोड को चालू कर सकते हैं।"</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA मोड चालू है</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA मोड चालू करें</string>
+    <string name="battery_tip_low_battery_summary">बैटरी लाइफ़ बढ़ाने के लिए, STAMINA मोड को चालू करें</string>
+    <string name="condition_battery_title">STAMINA मोड चालू है</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA मोड के कारण अस्थायी तौर पर चालू</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">STAMINA मोड के कारण चालू / अस्थायी तौर पर अक्षम</string>
+    <string name="keywords_battery_saver_schedule">रूटीन, शेड्यूल, स्टेमिना मोड, पॉवर बचत, बैटरी, स्वचालित, प्रतिशत</string>
+    <string name="keywords_battery_saver_sticky">stamina मोड, लंबे समय तक टिकाऊ, दृढ़, पावर की बचत करने वाला, बैटरी</string>
+</resources>

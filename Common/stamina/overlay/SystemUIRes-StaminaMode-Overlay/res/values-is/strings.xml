@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Pikkaðu til að ákveða tíma fyrir STAMINA-hátt</string>
+    <string name="battery_detail_switch_title">STAMINA-stilling</string>
+    <string name="battery_low_description">%s rafhlöðuhleðsla eftir. STAMINA-stilling kveikir á dökku þema, dregur úr bakgrunnsvirkni og seinkar tilkynningum.</string>
+    <string name="battery_low_intro">STAMINA-stilling kveikir á dökku þema, dregur úr bakgrunnsvirkni og seinkar tilkynningum.</string>
+    <string name="battery_low_title">Kveikja ​á STAMINA-stillingu?</string>
+    <string name="battery_saver_confirmation_title">Á að kveikja á STAMINA-hætti?</string>
+    <string name="battery_saver_confirmation_title_generic">Um STAMINA-hátt</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA-stilling</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Mod STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Modul STAMINA se activează dacă este probabil ca bateria să se descarce înainte de următoarea încărcare</string>
+    <string name="battery_saver_master_switch_title">Utilizaţi modul STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Modul STAMINA se dezactivează când bateria atinge nivelul %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Aplicațiile consumă un procent normal de baterie. Dacă aplicațiile consumă prea multă baterie, dispozitivul va sugera acțiuni posibile.
+
+Puteţi activa modul STAMINA oricând se descarcă bateria."</string>
+    <string name="battery_tip_early_heads_up_done_title">Mod STAMINA activat</string>
+    <string name="battery_tip_early_heads_up_title">Activaţi modul STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Activați modul STAMINA pentru a mări autonomia bateriei</string>
+    <string name="condition_battery_title">Mod STAMINA activat</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Pornit temporar de modul STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Pornit/dezactivat temporar de modul STAMINA</string>
+    <string name="keywords_battery_saver_schedule">rutină, program, planificare, mod stamina, regim economic, economisire baterie, economizor baterie, automat, procent, procentaj</string>
+    <string name="keywords_battery_saver_sticky">mod stamina, rezistenţă, persistenţă, regim economic, baterie</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">Atingeţi pentru a programa modul STAMINA</string>
+    <string name="battery_detail_switch_title">Mod STAMINA</string>
+    <string name="battery_low_description">Mai aveți %s din baterie. Modul STAMINA activează Tema întunecată, restricționează activitatea în fundal și amână notificările.</string>
+    <string name="battery_low_intro">Modul STAMINA activează Tema întunecată, restricționează activitatea în fundal și amână notificările.</string>
+    <string name="battery_low_title">Activați mod STAMINA?</string>
+    <string name="battery_saver_confirmation_title">Activaţi modul STAMINA?</string>
+    <string name="battery_saver_confirmation_title_generic">Despre modul STAMINA</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Mod STAMINA</string>
+</resources>

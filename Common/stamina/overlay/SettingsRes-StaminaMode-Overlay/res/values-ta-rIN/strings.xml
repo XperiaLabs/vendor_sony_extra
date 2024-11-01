@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA பயன்முறை</string>
+    <string name="battery_saver_auto_routine_summary">உங்கள் பேட்டரி தீர்ந்துபோகும் நிலையில் இருந்தால் வழக்கமான அடுத்த சார்ஜுக்கு முன்பு STAMINA பயன்முறை ஆன் ஆகும்</string>
+    <string name="battery_saver_master_switch_title">STAMINA பயன்முறை</string>
+    <string name="battery_tip_dialog_summary_message">"உங்கள் பயன்பாடுகள் வழக்கமான பேட்டரி அளவைப் பயன்படுத்துகின்றன. பயன்பாடுகள் அதிகளவு பேட்டரியைப் பயன்படுத்தினால், நீங்கள் எடுக்கக்கூடிய நடவடிக்கைகளை உங்கள் தொலைபேசி பரிந்துரைக்கும்.
+
+பேட்டரி குறைவாக இருக்கும்போது, STAMINA பயன்முறையைச் செயல்படுத்தலாம்."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA பயன்முறை ஆனில் உள்ளது</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA பயன்முறையை இயக்கு</string>
+    <string name="battery_tip_low_battery_summary">பேட்டரியின் ஆயுளை நீட்டிக்க STAMINA பயன்முறையை இயக்குக</string>
+    <string name="condition_battery_title">STAMINA பயன்முறை ஆனில்</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA பயன்முறை காரணமாக தற்காலிகமாக முடக்கப்பட்டது</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">ஆன் / STAMINA பயன்முறை காரணமாக தற்காலிகமாக முடக்கப்பட்டது</string>
+    <string name="keywords_battery_saver_schedule">வழக்கமான, திட்ட அட்டவணை, stamina பயன்முறை, ஆற்றல் சேமிப்பான், பேட்டரி, தானியங்கு, சதவீதம்</string>
+    <string name="keywords_battery_saver_sticky">stamina பயன்முறை, ஒட்டுந்தன்மையானது, நிரந்தரமானது, மின்சக்தி சேமிப்பான், பேட்டரி</string>
+</resources>

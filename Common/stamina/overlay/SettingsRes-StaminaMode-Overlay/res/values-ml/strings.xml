@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">STAMINA മോഡ്</string>
+    <string name="battery_saver_auto_routine_summary">നിങ്ങൾ സാധാരണയായി അടുത്ത തവണ ചാർജ്ജ് ചെയ്യുന്നതിന് മുമ്പാ ബാറ്ററി തീർന്നുപോകാൻ സാദ്ധ്യതയുണ്ടെങ്കിൽ, STAMINA മോഡ് ഓണാകുന്നു</string>
+    <string name="battery_saver_master_switch_title">STAMINA മോഡ് ഉപയോ.</string>
+    <string name="battery_tip_dialog_summary_message">"നിങ്ങളുടെ ആപ്പുകൾ ബാറ്ററി ഉപയോഗിക്കുന്നത് സാധാരണ അളവിലാണ്. ആപ്പുകൾ വളരെയധികം ബാറ്ററി ഉപയോഗിക്കുന്നുവെങ്കിൽ, നിങ്ങൾക്ക് കൈക്കൊള്ളാവുന്ന നടപടികളെക്കുറിച്ച് ഫോൺ നിർദ്ദേശിക്കും.
+
+നിങ്ങൾക്ക് ബാറ്ററി കുറവാണെങ്കിൽ എപ്പോഴും STAMINA മോഡ് ഓണാക്കാവുന്നതാണ്."</string>
+    <string name="battery_tip_early_heads_up_done_title">STAMINA മോഡ് ഓണാണ്</string>
+    <string name="battery_tip_early_heads_up_title">STAMINA മോഡ് ഓൺ ചെയ്യുക</string>
+    <string name="battery_tip_low_battery_summary">ബാറ്ററി ലെെഫ് വർദ്ധിപ്പിക്കാൻ STAMINA മോഡ് ഓണാക്കുക</string>
+    <string name="condition_battery_title">STAMINA മോഡ് ഓണാണ്</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">STAMINA മോഡ് കാരണം താൽക്കാലികമായി ഓൺ ചെയ്‌തു</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">ഓൺ / STAMINA മോഡ് കാരണം താൽക്കാലികമായി പ്രവർത്തനരഹിതമാക്കി</string>
+    <string name="keywords_battery_saver_schedule">പതിവ്, ഷെഡ്യൂൾ, stamina മോഡ്, പവർ സേവ്, ബാറ്ററി, സ്വയമേവ, ശതമാനം</string>
+    <string name="keywords_battery_saver_sticky">stamina മോഡ്, സ്റ്റിക്കി, നിലനിൽക്കൽ, പവർ സേവർ, ബാറ്ററി</string>
+</resources>

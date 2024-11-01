@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA-режимот ги исклучува или ограничува активноста во заднина, некои визуелни ефекти и други функции со голема потрошувачка на енергија за да се продолжи траењето на батеријата.</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA-режимот ги исклучува или ограничува активноста во заднина, некои визуелни ефекти и други функции со голема потрошувачка на енергија за да се продолжи траењето на батеријата. <annotation id="url">Дознајте повеќе</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA-режим</string>
+    <string name="battery_saver_off_notification_title">STAMINA-режимот е исклучен</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">Per tal de prolongar la durada de la bateria, el mode STAMINA desactiva o restringeix les activitats en segon pla, alguns efectes visuals i altres funcions que consumeixen molta energia.</string>
+    <string name="battery_saver_description_with_learn_more">Per tal de prolongar la durada de la bateria, el mode STAMINA desactiva o restringeix les activitats en segon pla, alguns efectes visuals i altres funcions que consumeixen molta energia. <annotation id="url">Més informació</annotation></string>
+    <string name="battery_saver_notification_channel_name">Mode STAMINA</string>
+    <string name="battery_saver_off_notification_title">El mode STAMINA està desactivat</string>
+</resources>

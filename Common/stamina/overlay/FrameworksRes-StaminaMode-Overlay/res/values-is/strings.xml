@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">STAMINA-háttur slekkur á eða takmarkar bakgrunnsvirkni, tilteknar myndbrellur og aðra eiginleika til að lengja rafhlöðuendingu</string>
+    <string name="battery_saver_description_with_learn_more">STAMINA-háttur slekkur á eða takmarkar bakgrunnsvirkni, tilteknar myndbrellur og aðra eiginleika til að lengja rafhlöðuendingu <annotation id="url">Frekari upplýsingar</annotation></string>
+    <string name="battery_saver_notification_channel_name">STAMINA-stilling</string>
+    <string name="battery_saver_off_notification_title">Slökkt er á STAMINA-stillingu.</string>
+</resources>

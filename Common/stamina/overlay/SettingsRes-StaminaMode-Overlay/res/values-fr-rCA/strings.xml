@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Mode STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">"Le mode STAMINA s'active si votre pile risque de s'épuiser avant l'heure de recharge habituelle."</string>
+    <string name="battery_saver_master_switch_title">Utiliser le mode STAMINA</string>
+    <string name="battery_tip_dialog_summary_message">"Vos applications utilisent une quantité normale d'énergie. Si les applications utilisent trop d'énergie, votre téléphone vous suggérera des mesures à prendre.
+
+Vous pouvez toujours activer le mode STAMINA si la pile est trop faible."</string>
+    <string name="battery_tip_early_heads_up_done_title">Mode STAMINA activé</string>
+    <string name="battery_tip_early_heads_up_title">Activer le mode STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Activer le mode STAMINA pour prolonger la vie de la batterie</string>
+    <string name="condition_battery_title">Mode STAMINA activé</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Temporairement activé par le mode STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Activé/Temporairement désactivé par le mode STAMINA</string>
+    <string name="keywords_battery_saver_schedule">"routine, programme, mode stamina, économiseur d'énergie, pile, batterie, automatique, pourcentage"</string>
+    <string name="keywords_battery_saver_sticky">"mode stamina, résistant, persistant, économiseur d'énergie, pile"</string>
+</resources>

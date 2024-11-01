@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA modunu zamanlamak için dokunun</string>
+    <string name="battery_detail_switch_title">STAMINA modu</string>
+    <string name="battery_low_description">%s piliniz kaldı. STAMINA modu, koyu temayı açıp arka plan etkinliğini kısıtlar ve bildirimleri geciktirir.</string>
+    <string name="battery_low_intro">STAMINA modu, koyu temayı açıp arka plan etkinliğini kısıtlar ve bildirimleri geciktirir.</string>
+    <string name="battery_low_title">STAMINA modu açılsın mı?</string>
+    <string name="battery_saver_confirmation_title">STAMINA modu açılsın mı?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA modu hakkında</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA modu</string>
+</resources>

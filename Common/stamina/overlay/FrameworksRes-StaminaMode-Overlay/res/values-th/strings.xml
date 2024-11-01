@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver_description">โหมด STAMINA จะปิดหรือจำกัดกิจกรรมในเบื้องหลัง เอฟเฟกต์ภาพบางอย่าง และฟีเจอร์ที่ใช้พลังงานมากอื่นๆ เพื่อยืดอายุการใช้งานแบตเตอรี่</string>
+    <string name="battery_saver_description_with_learn_more">โหมด STAMINA จะปิดหรือจำกัดกิจกรรมในเบื้องหลัง เอฟเฟกต์ภาพบางอย่าง และฟีเจอร์ที่ใช้พลังงานมากอื่นๆ เพื่อยืดอายุการใช้งานแบตเตอรี่ <annotation id="url">ดูข้อมูลเพิ่มเติม</annotation></string>
+    <string name="battery_saver_notification_channel_name">โหมด STAMINA</string>
+    <string name="battery_saver_off_notification_title">ปิดโหมด STAMINA แล้ว</string>
+    <string name="dynamic_mode_notification_title">โหมด STAMINA เปิดอยู่</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_saver">Mod STAMINA</string>
+    <string name="battery_saver_auto_routine_summary">Mod STAMINA hidup jika bateri anda berkemungkinan habis sebelum cas biasa anda yang seterusnya</string>
+    <string name="battery_saver_master_switch_title">Gunakan mod STAMINA</string>
+    <string name="battery_saver_sticky_description_new">Mod STAMINA dimatikan apabila bateri mencapai %1$s</string>
+    <string name="battery_tip_dialog_summary_message">"Aplikasi anda menggunakan jumlah kuasa bateri seperti biasa. Jika aplikasi menggunakan terlalu banyak bateri, peranti anda akan mencadangkan tindakan yang boleh anda ambil.
+
+Anda sentiasa boleh menghidupkan mod STAMINA jika bateri anda lemah."</string>
+    <string name="battery_tip_early_heads_up_done_title">Mod STAMINA dihidupkan</string>
+    <string name="battery_tip_early_heads_up_title">Hidupkan mod STAMINA</string>
+    <string name="battery_tip_low_battery_summary">Hidupkan Mod STAMINA untuk melanjutkan hayat bateri</string>
+    <string name="condition_battery_title">Mod STAMINA dihidupkan</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Dihidupkan buat sementara kerana mod STAMINA</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Hidup / Dinyahdayakan buat sementara kerana mod STAMINA</string>
+    <string name="keywords_battery_saver_schedule">rutin, jadual, mod stamina, penjimat kuasa, bateri, automatik, peratus</string>
+    <string name="keywords_battery_saver_sticky">mod stamina, tahan lama, berterusan, penjimat kuasa, bateri</string>
+</resources>

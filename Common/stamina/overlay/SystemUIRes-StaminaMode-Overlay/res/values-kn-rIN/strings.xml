@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_saver_title">STAMINA ಮೋಡ್ ನಿಗದಿಪಡಿಸಲು ತಟ್ಟಿ</string>
+    <string name="battery_detail_switch_title">STAMINA ಶೈಲಿ</string>
+    <string name="battery_low_description">ನಿಮ್ಮ ಬಳಿ %s ಬ್ಯಾಟರಿ ಉಳಿದಿದೆ. ಸಾಮರ್ಥ್ಯ ಶೈಲಿಯು ಗಾಢ ಥೀಮ್ ಅನ್ನು ಆನ್ ಮಾಡುತ್ತದೆ, ಹಿನ್ನೆಲೆ ಚಟುವಟಿಕೆಯನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ ಮತ್ತು ಅಧಿಸೂಚನೆಗಳನ್ನು ವಿಳಂಬಮಾಡುತ್ತದೆ.</string>
+    <string name="battery_low_intro">ಸಾಮರ್ಥ್ಯ ಶೈಲಿಯು ಗಾಢ ಥೀಮ್ ಅನ್ನು ಆನ್ ಮಾಡುತ್ತದೆ, ಹಿನ್ನೆಲೆ ಚಟುವಟಿಕೆಯನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ ಮತ್ತು ಅಧಿಸೂಚನೆಗಳನ್ನು ವಿಳಂಬಮಾಡುತ್ತದೆ.</string>
+    <string name="battery_low_title">ಸಾಮರ್ಥ್ಯ ಶೈಲಿ ಆನ್ ಮಾಡಬೇಕೇ?</string>
+    <string name="battery_saver_confirmation_title">STAMINA ಮೋಡ್ ಆನ್ ಮಾಡುವುದೇ?</string>
+    <string name="battery_saver_confirmation_title_generic">STAMINA ಮೋಡ್ ಕುರಿತು</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">STAMINA ಶೈಲಿ</string>
+</resources>
