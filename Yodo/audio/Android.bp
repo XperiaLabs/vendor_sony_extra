@@ -65,17 +65,6 @@ android_app_import {
 	system_ext_specific: true,
 }
 
-android_app_import {
-        name: "ThreeSixtyRASystem-Overlay",
-        owner: "sony",
-        apk: "proprietary/product/overlay/ThreeSixtyRASystem-Overlay.apk",
-        certificate: "platform",
-        dex_preopt: {
-                enabled: false,
-        },
-        product_specific: true,
-}
-
 dex_import {
 	name: "com.sony.threesixtyra.audiofx",
 	owner: "sony",
