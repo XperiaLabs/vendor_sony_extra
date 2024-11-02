@@ -25,5 +25,4 @@ PRODUCT_PACKAGES += \
     MovieCreator \
     SomcColorGamut \
     SomcMediaExtensionProvider \
-    UsbExtOutAudio \
     VideoCreator
